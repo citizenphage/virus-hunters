@@ -1,0 +1,25 @@
+# CPL Plan - Week 4
+
+The students will use the Centre for Phage Technology Galaxy Phage tool to annotate their genomes
+
+## Tuesday 1st June
+
+Christian and Lauren will provide an overview on using the tools via Zoom.
+
+Two videos from the CPT also exist for this purpose:
+
+* [Structural Pipeline Video](https://t.co/F9Gv0rCHhS)
+* [Functional Pipeline Video](https://t.co/5veyKIswWv)
+
+BT will assemble all genomes and perform read alignments.
+
+## Wednesday 2nd June
+Students will embark on analysing their genomes. This will include:
+
+1. Classification using [VIPTree](https://www.genome.jp/viptree/)
+2. Identification of novel species and genera through [VIRIDIC](http://rhea.icbm.uni-oldenburg.de/VIRIDIC/)
+
+## Thursday 3rd June
+Evaluation of killing efficiency in R (Zoom workshop).
+
+
