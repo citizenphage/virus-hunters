@@ -1,0 +1,30 @@
+# CPL Plan - Week 3
+
+In the third week, the students will be performing DNA extractions on phage DNA
+
+## Monday 24th May
+Students will test their lysate for estimating PFU and begin phage DNA precipitation
+
+* Students will prepare a dilution series of their phages as before and spot them in triplicate across 3 plates
+* Students will transfer 30 mL of lysate to a fresh Falcon tube
+* Students will add 15 µL of nuclease solution and incubate at 37 °C for 30 mins
+* Students will then add 15 mL of precipitant solution to each tube and mix gently by inversion
+* Samples will be incubated at 4 °C O/N
+
+### Materials required
+* 10 mL pathogen culture
+* 3 glass test tubes with lids containing 3 mL molten agar (36 total)
+* 3 petri dishes with bottom agar (36 total)
+* water bath (or heat blocks if the tubes will fit in).
+* 1 sterile 96 well plate (12 total)
+* 3 x Falcon tube (36 total)
+* 50 µL of nuclease solution (600 µL total)
+* 50 mL of precipitant solution (600 mL total)
+
+## Tuesday 25th May
+Students will extract DNA using the Promega Wizard kit using [this protocol](https://cpt.tamu.edu/wordpress/wp-content/uploads/2011/12/Phage-DNA-extraction-modified-Wizard-method-07-12-2011.pdf)
+
+Depending on how many phages we isolate, we are anticipating sending two per student for sequencing, with the remaining extractions kept back for future analyses.
+### Materials required
+* 3 x 500 µL resuspension buffer (5 mM $MgSO_{4}$) (18 mL total)
+* 2 x Promega Wizard Kits.
