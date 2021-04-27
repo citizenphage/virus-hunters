@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.19)  27 APR 2021 08:05
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.19)  27 APR 2021 08:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -798,26 +798,26 @@ Chapter 5.
 ] [18]
 Chapter 6.
 No file third-year-project.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 533.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 536.
 [19
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 533.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 536.
 (./third-year-project.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 533.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 533.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 536.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 536.
 Package rerunfilecheck Info: File `third-year-project.out' has not changed.
-(rerunfilecheck)             Checksum: 6A382F7A81597E96377ED4B3AEDEE6FB;2517.
+(rerunfilecheck)             Checksum: FBB76A1835FF14A4425C3420546F1094;2678.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 533.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 536.
  ) 
 Here is how much of TeX's memory you used:
- 16915 strings out of 481269
- 298763 string characters out of 5924065
+ 16917 strings out of 481269
+ 298796 string characters out of 5924065
  724783 words of memory out of 5000000
- 34226 multiletter control sequences out of 15000+600000
+ 34228 multiletter control sequences out of 15000+600000
  538781 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  53i,6n,118p,912b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
