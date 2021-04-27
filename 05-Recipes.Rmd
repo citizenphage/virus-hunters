@@ -1,4 +1,6 @@
-# Precipitant solution
+# Recipes for reagents
+
+## Precipitant solution
 This is a ready-mixed 30% w/v PEG-8000, 3 M NaCl solution for adding to phage lysate in a 1:2 ratio precipitant:lysate (10%PEG-8000, 1 M NaCl final conc.)
 
 1. In a sterilized 500 mL bottle add 330 mL of autoclaved MilliQ and 105 g of NaCl and dissolve.
