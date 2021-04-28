@@ -1,4 +1,4 @@
-# CPL Plan - Week 1
+# Phage Enrichment
 
 In total, we will have 12 students isolating phages for the CPL. Each student will be assigned a pathogen and will use that to isolate phages from samples crowdsourced by their peers. The first week is spent enriching for phages from their samples. In total there will be 47 samples (plus one negative ctrl).
 

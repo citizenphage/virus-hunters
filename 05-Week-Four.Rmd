@@ -1,4 +1,4 @@
-# CPL Plan - Week 4
+# Genome Annotation
 
 The students will use the Centre for Phage Technology Galaxy Phage tool to annotate their genomes
 

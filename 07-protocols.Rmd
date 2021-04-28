@@ -1,0 +1,56 @@
+# Protocols {-}
+
+## Preparing phages from environmental samples
+
+**Note: Due to the need to centrifuge samples in a fixed rotor, you can only process _eight_ samples at any one time**
+
+Please read all associated Risk Assessments related to the pathogens of interest before proceeding.
+
+### Solid Samples
+
+1.  Aliquot sample into a 50 mL Falcon tube to about the 10 mL mark
+2.  Top up with pH 7.5 SM buffer to ~ 45 mL.
+3.  Leave on a rotor to mix for ~ 1hr (this softens the material)
+4.  Vortex for 1-2 mins.
+5.  Centrifuge at 4080 xg for 10 mins at 4 °C. This stage is just to get rid of the bulk material, so can be done in the benchtop centrifuge in GP211.
+6.  Pass the supernatant through a Pluriselect 40 µm mesh filter into a fresh 50 mL Falcon tube to the 40 mL mark. Draw an arrow on the lid and mark the side where the pellet is going to be.
+7.  Centrifuge at 10,000 xg for 30 mins at 4 °C. This requires the ThermoScientific Multifuge X3R on the 4th floor.
+8.  In a flow hood, filter through a 0.2 µm PES filter into an acid-washed and autoclaved 20 mL amber glass vial (Fisher 11503552). You may have to re-centrifuge if it's really clogging the filter. Use a luer-lock syringe and filter for this to avoid it popping off and spraying everywhere!
+9.  Label the glass vial with the [What3Words](https://what3words.com/) label. Also on the side, write the date it was processed and your name.
+10.  Store at 4 °C in the dark in the CPL sample box
+\newpage
+
+### Liquid Samples
+
+1.  Aliquot sample into a 50 mL Falcon tube. Draw an arrow on the lid and mark the side where the pellet is going to be.
+2.  Top up to 45 mL with pH 7.5 buffer if necessary
+3.  Centrifuge at 10,000 xg for 30 mins at 4 °C. This requires the ThermoScientific Multifuge X3R on the 4th floor.
+4.  Pour supernatant into 20 mL syringe fitted with 0.2 µm PES filter
+5.  In a flow hood, filter through a 0.2 µm PES filter into an acid-washed and autoclaved 20 mL amber glass vial (Fisher 11503552). You may have to re-centrifuge if it's really clogging the filter. Use a luer-lock syringe and filter for this to avoid it popping off and spraying everywhere!
+6.  Label the sterilin with the What3Words label on both the top and the side. Also on the side, write the date it was processed and your name.
+7. Store at 4 °C in the dark in the CPL sample box
+\newpage
+
+## 1. Initial phage enrichment (using 2.2 mL deep well plates or 7 mL sterilins)
+
+This method is based off this work [@Olsen2020-dh] and allows for the screening of one or more host strains against up to 94 samples (plus a blank and a positive control). Briefly, into each well we are adding LB medium into filtered sample that contains phages, then adding in an overnight culture of the pathogen of interest. If there are phages in the sample that infect the host, they will replicate and thus increase in abundance within the well. Subsequent steps then purify these enriched phages.
+
+For a negative control, you want to use a sample that has no phages in it. DI water is recommended for this. You also want to run a positive control (to show that phages can be amplified and plated). For this, you can use a phage lysate that has been previously isolated on the host of interest. Spike 10 µL of previous phage lysate into 1340 µL of DI water as your positive control.
+
+If you do not have a phage isolated on the pathogen of interest, it is recommended that you use a positive control consisting of 10 µL of T4 lysate into 1340 µL of DI. You will then need a well on your plate that contains an enrichment of _E. coli_ BW25113. You'll also need to include this in subsequent plaque assay steps.
+
+1. Make an O/N culture of your host of interest in LB medium at 37 °C on an orbital shaker. The required volume per host is 110 µL $\times$ the number of samples being tested, plus one negative control and one positive. So for 10 samples plus controls, you will need ~2 mL of host culture.
+2.  Make a 40 mL solution of 0.25 M $CaCl_2$ and 0.25 M $MgCl_2$ as follows:
+  -  10 mL 1M $CaCl_2$
+  -  10 mL 1M $MgCl_2$
+  -  20 mL DI water
+  -  Vortex and filter sterilize through a 0.22 µm syringe filter.
+3.  The next day, unwrap an autoclaved 2.2 ml deep well 96-well plate (make sure you have the right ones! The wells are square. The ones with round wells don't hold enough liquid) in a flow hood.
+4.  Place 1350 µL of a 0.45 µm filtered sample into each well. For every strain of host, you need a negative control well (1350 µL of DI water). It's worth thinking about the final spot plaque assays when laying out the plate. It's easier to have a whole row or a whole column with a single host strain, as that way, you can spot an entire row/column onto the same plate, rather than having to cherry-pick samples.
+5.  To each well, add 80 µL of a mixture of 0.25 M $CaCl_2$ and 0.25 M $MgCl_2$
+6.  To each well, add in 100 µL of an O/N culture of host
+7.  To each well, add in 450 µL of 4.4x concentration LB (44g of LB in 400 mL)
+8.  Pipette up and down to mix
+9.  Cover with a plate film.
+10. Incubate overnight at 30 °C on an orbital shaker at 200 rpm.
+11. Set up another O/N culture of the hosts for the next day.

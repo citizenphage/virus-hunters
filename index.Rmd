@@ -8,7 +8,9 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "A handbook."
+cover-image: images/logo.v3.png
 ---
 
-# Welcome Phage Hunters
+\newpage
+# Welcome Phage Hunters! {-}
 
