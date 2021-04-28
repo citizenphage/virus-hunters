@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li class="toc-logo"><a href="./"><img src="images/logo.v3.png"></a></li>
+        <a href="./">Citizen Phage Library</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]
