@@ -1,35 +1,33 @@
 # Phage Enrichment
 
-In total, we will have 12 students isolating phages for the CPL. Each student will be assigned a pathogen and will use that to isolate phages from samples crowdsourced by their peers. The first week is spent enriching for phages from their samples. In total there will be 47 samples (plus one negative ctrl).
+In total, we will have 15 students isolating phages for the CPL. Each student will be assigned a pathogen and will use that to isolate phages from samples crowdsourced by their peers. The first week is spent enriching for phages from their samples. In total there will be 47 samples (plus one negative ctrl).
 
-## Monday 10th May
+## Monday 17th May
 * Kick off meeting + students given sample packs, with samples to be taken next morning.
 
 BT will give a presentation on the work and the steps involved in phage isolation.
-
-### Estimated time: 1 hr
 
 ### Materials required
 * 36 sample jars
 * 12 lab pens
 
 
-## Tuesday 11th May
+## Tuesday 18th May
 * Students return to lab with samples
-* Samples are transferred to 50 mL falcon tube + centrifuged for 30 mins @ 8000 x g
-* Samples are filtered through 0.2 µm syringe filters into fresh 50 mL Falcon tube, then aliquoted into 12 1.5 mL lo-bind microcentrifuge tubes
+* Samples are transferred to 50 mL falcon tube + centrifuged for 30 mins @ 10000 x g
+* Samples are filtered through 0.2 µm syringe filters into fresh 50 mL Falcon tube, then aliquoted into 15 1.5 mL lo-bind microcentrifuge tubes
 * Samples are recorded on class shared spreadsheet
 * Samples stored O/N at 4 °C.
 
 ### Materials required
-* 6 x 50 mL Falcon tube x 12 students (72 total)
-* 3 x 25 mL syringe with luer lock (36 total)
-* 3 x 0.2 µm syrige filter (36 total)
-* 3 x 12 1.5 mL microcentrifuge tubes (432 total) 
+* 6 x 50 mL Falcon tube x 15 students (90 total)
+* 3 x 25 mL syringe with luer lock (45 total)
+* 3 x 0.2 µm syrige filter (45 total)
+* 3 x 15 1.5 mL microcentrifuge tubes (675 total) 
 * microcentrifuge rack
-* Centrifuge capable of 8,000 x g for 50 mL Falcon tubes
+* Centrifuge capable of 10,000 x g for 50 mL Falcon tubes
 
-## Wednedsay 12th May
+## Wednedsay 19th May
 * Students assigned a pathogen
 * Students provided a set of samples
 * Students aliquot 900 µL of each sample into each well of a 96-well deep well plate
@@ -39,13 +37,13 @@ BT will give a presentation on the work and the steps involved in phage isolatio
 * Students set up fresh O/N culture of pathogen
 
 ### Materials required
-* 10 mL of O/N pathogen culture (200 mL total)
+* 10 mL of O/N pathogen culture 
 * 50 mL of 3x LB + 30 mM $MgCl_{2}$ + 30 mM $CaCl_{2}$ (1L total)
-* Deep well plate (12 total)
-* PCR film (12 total)
-* 2 sterilins with 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (24 total)
+* Deep well plate (15 total)
+* PCR film (15 total)
+* 2 sterilins with 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (30 total)
 
-## Thursday 13th May
+## Thursday 20th May
 * Students transfer 200 µL from each well into a 0.2 µm filter plate atop a regular, sterile 96 well plate.
 * Plate is spun at 900 x g for 4 mins to transfer filtrate to bottom plate
 * Into a fresh 200 µL 96-well plate, students add 190 µL of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ per well
@@ -55,21 +53,21 @@ BT will give a presentation on the work and the steps involved in phage isolatio
 * Students set up fresh O/N culture of pathogen
 
 ### Materials required
-* 0.45 µm filter plate (Merck MSHAS4510) (12 total)
-* 2 x sterile 200 µL 96-well plate (24 total)
-* PCR film (12 total)
-* 2 sterilins with 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (24 total)
+* 0.45 µm filter plate (Merck MSHAS4510) (15 total)
+* 2 x sterile 200 µL 96-well plate (30 total)
+* PCR film (15 total)
+* 2 sterilins with 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (30 total)
 
-## Friday 14th May
+## Friday 21st May
 * Students transfer 200 µL from each well into a 0.2 µm filter plate atop a regular, sterile 96 well plate.
 * Plate is spun at 900 x g for 4 mins to transfer filtrate to bottom plate
 * Bottom plate is covered with PCR film and stored until Monday at 4 °C.
 * Students streak pathogen onto agar plate for growth over weekend.
 
 ### Materials required
-* 0.45 µm filter plate (12 total)
-* 1 x sterile 200 µL 96-well plate (12 total)
-* PCR film (12 total)
+* 0.45 µm filter plate (15 total)
+* 1 x sterile 200 µL 96-well plate (15 total)
+* PCR film (15 total)
 * 2 x LB agar plates for bacterial growth
 * Inoculating loops
 

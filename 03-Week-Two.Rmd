@@ -2,7 +2,7 @@
 
 In the second week, the students will be performing spot assays and phage purification.
 
-## Tuesday 18th May
+## Monday 24th May
 Students will set up four top agar spot plates, with 12 samples per plate (w. neg. ctrl).
 
 * Students will mark plates into quadrants
@@ -12,11 +12,11 @@ Students will set up four top agar spot plates, with 12 samples per plate (w. ne
 
 ### Materials required
 * 10 mL pathogen culture
-* 5 glass test tubes with lids containing 3 mL molten agar (60 total)
-* 5 petri dishes with bottom agar (60 total)
+* 5 glass test tubes with lids containing 3 mL molten agar (75 total)
+* 5 petri dishes with bottom agar (75 total)
 * water bath (or heat blocks if the tubes will fit in).
 
-## Wednesday 19th May
+## Tuesday 25th May
 Students will pick plaques and perform first round of O/N purification steps. We are going to assume a maximum of 3 phages per student.
 
 * Students will take a photo of their plates to record plaque morphology
@@ -27,13 +27,13 @@ Students will pick plaques and perform first round of O/N purification steps. We
 
 ### Materials required
 * 10 mL pathogen culture
-* 3 glass test tubes with lids containing 3 mL molten agar (36 total)
-* 3 petri dishes with bottom agar (36 total)
+* 3 glass test tubes with lids containing 3 mL molten agar (45 total)
+* 3 petri dishes with bottom agar (45 total)
 * water bath (or heat blocks if the tubes will fit in).
-* 1 sterile 96 well plate (12 total)
-* 3 lo-bind microcentrifuge tubes (36 total)
+* 1 sterile 96 well plate (15 total)
+* 3 lo-bind microcentrifuge tubes (45 total)
 
-## Thursday 20th May
+## Wednesday 26th May
 From each plate, students will pick plaque from the biggest dilution (fewest phages) and perform second round of O/N purification. We are going to assume a maximum of 3 phages per student.
 
 * Students will take a photo of their plates to record plaque morphology
@@ -44,10 +44,45 @@ From each plate, students will pick plaque from the biggest dilution (fewest pha
 
 ### Materials required
 * 10 mL pathogen culture
-* 3 glass test tubes with lids containing 3 mL molten agar (36 total)
-* 3 petri dishes with bottom agar (36 total)
+* 3 glass test tubes with lids containing 3 mL molten agar (45 total)
+* 3 petri dishes with bottom agar (45 total)
 * water bath (or heat blocks if the tubes will fit in).
-* 1 sterile 96 well plate (12 total)
-* 3 lo-bind microcentrifuge tubes (36 total)
+* 1 sterile 96 well plate (15 total)
+* 3 lo-bind microcentrifuge tubes (45 total)
 
+## Thursday 27th May
+From each plate, students will pick plaque from the biggest dilution (fewest phages) and perform third round of O/N purification. We are going to assume a maximum of 3 phages per student.
 
+* Students will take a photo of their plates to record plaque morphology
+* For each plaque, students will core the plaque using a pipette tip and place it in 200 µL of SM buffer in a microcentrifuge tube, before vortexing briefly.
+* Students will then set up a dilution series from $10^{0}$ to $10^{-11}$ in SM Buffer in a 96 well plate (one row per phage)
+* Using the same method as the spot assay, students will spot the 12 dilutions onto a single plate (so one plate per phage).
+* Plates will be left O/N for plaques to develop
+* Students will set up O/N cultures of host 
+
+### Materials required
+* 10 mL pathogen culture
+* 3 glass test tubes with lids containing 3 mL molten agar (45 total)
+* 3 petri dishes with bottom agar (45 total)
+* water bath (or heat blocks if the tubes will fit in).
+* 1 sterile 96 well plate (15 total)
+* 3 lo-bind microcentrifuge tubes (45 total)
+* 2 sterilins containing 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (30 total)
+
+## Friday 28th May
+From each plate, students will pick plaque from the biggest dilution (fewest phages) and bulk it up on hosts overnight.
+
+* Students will take a photo of their plates to record plaque morphology. These will also be used to determine approximate PFU counts.
+* Students will pick plaque from the biggest dilution (fewest phages) and add it to 50 mL of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$, amended with 1 mL of O/N host culture.
+* Cultures will be grown O/N at 30 °C
+
+The next day (Saturday), BT and team will go in and centrifuge the samples down and prepare for each phage 1 x 50 mL tubes of lysate, filtered through a 0.2 µm syringe filter. We will prepare 3 x 2 mL phage stocks in acid washed, autoclaved amber glass vials.
+
+**200 µL of each phage filtrate will be provided to the imaging centre.**
+
+### Materials required
+* 3 x 50 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (2L total)
+* 3 x 50 mL falcon tubes (45 total)
+* 3 x 0.2 µm syringe filter (45 total)
+* 3 x 25 mL syringe with luer lock (45 total).
+* 3 x 2 mL amber glass vials
