@@ -8,15 +8,16 @@ Please read all associated Risk Assessments related to the pathogens of interest
 
 ### Solid Samples
 
-1.  Aliquot sample into a 50 mL Falcon tube to about the 10 mL mark
-2.  Top up with pH 7.5 SM buffer to ~ 45 mL.
-3.  Leave on a rotor to mix for ~ 1hr (this softens the material)
-4.  Vortex for 1-2 mins.
-5.  Centrifuge at 4080 xg for 10 mins at 4 °C. This stage is just to get rid of the bulk material, so can be done in the benchtop centrifuge in GP211.
-6.  Pass the supernatant through a Pluriselect 40 µm mesh filter into a fresh 50 mL Falcon tube to the 40 mL mark. Draw an arrow on the lid and mark the side where the pellet is going to be.
-7.  Centrifuge at 10,000 xg for 30 mins at 4 °C. This requires the ThermoScientific Multifuge X3R on the 4th floor.
-8.  In a flow hood, filter through a 0.2 µm PES filter into an acid-washed and autoclaved 20 mL amber glass vial (Fisher 11503552). You may have to re-centrifuge if it's really clogging the filter. Use a luer-lock syringe and filter for this to avoid it popping off and spraying everywhere! You may need to use a second filter if it starts to clog.
-9.  Label the glass vial with the [What3Words](https://what3words.com/) label. Also on the side, write the date it was processed and your name.
+This method is adapted from [@Guzman2007-na]. The proteins in the beef extract help phages desorb from solid material. Proteinaceous substances within the beef extract and those that desorb with the phages can interfere with downstream molecular analyses on large samples  (e.g. PCR) [@Goller2020-wx], but for phage isolation, this isn't a problem (and beef extract is more cost effective than using PBS + BSA).
+
+1.  Aliquot 10-25g of sample into a 250 mL Duran, with a magnetic stirrer
+2.  Add 1:10 w/v [10% beef resuspension solution (pH 7.2)](#beef-resuspension-solution)
+3.  Homogenise the sample by magnetic stirring for 20 mins at RT with sufficient speed to develop a vortex (500-900 rpm)
+4. Transfer to 50 mL falcon tubes or larger vessels and centrifuge at 4080 xg for 10 mins at 4 °C. This stage is just to get rid of the bulk material, so can be done in the benchtop centrifuge in GP211.
+5.  Pass the supernatant through a Pluriselect 40 µm mesh filter into a fresh 50 mL Falcon tube to the 40 mL mark. Draw an arrow on the lid and mark the side where the pellet is going to be.
+6.  Centrifuge at 10,000 xg for 30 mins at 4 °C. This requires the ThermoScientific Multifuge X3R on the 4th floor.
+7.  In a flow hood, filter through a 0.2 µm PES filter into an acid-washed and autoclaved 20 mL amber glass vial (Fisher 11503552). You may have to re-centrifuge if it's really clogging the filter. Use a luer-lock syringe and filter for this to avoid it popping off and spraying everywhere! You may need to use a second filter if it starts to clog.
+8.  Label the glass vial with the [What3Words](https://what3words.com/) label. Also on the side, write the date it was processed and your name.
 10.  Store at 4 °C in the dark in the CPL sample box
 \newpage
 
@@ -27,7 +28,7 @@ Please read all associated Risk Assessments related to the pathogens of interest
 3.  Centrifuge at 10,000 xg for 30 mins at 4 °C. This requires the ThermoScientific Multifuge X3R on the 4th floor.
 4.  Pour supernatant into 20 mL syringe fitted with 0.2 µm PES filter
 5.  In a flow hood, filter through a 0.2 µm PES filter into an acid-washed and autoclaved 20 mL amber glass vial (Fisher 11503552). You may have to re-centrifuge if it's really clogging the filter. Use a luer-lock syringe and filter for this to avoid it popping off and spraying everywhere!
-6.  Label the sterilin with the What3Words label on both the top and the side. Also on the side, write the date it was processed and your name.
+6.  Label the glass vial with the [What3Words](https://what3words.com/) label. Also on the side, write the date it was processed and your name.
 7. Store at 4 °C in the dark in the CPL sample box
 \newpage
 

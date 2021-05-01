@@ -8,3 +8,15 @@ This is a ready-mixed 30% w/v PEG-8000, 3 M NaCl solution for adding to phage ly
 3. Incubate bottle in a 60 °C waterbath for 3 hours, shaking occasionally
 4. Remove and let cool to RT, shaking occasionally
 5. Add autoclaved MilliQ to 600 mL and store at RT.
+
+
+## Beef resuspension solution
+This is based on the recipe from [@Williamson2003-fu]. For each sample of 25g:
+
+1. To a 500 mL Duran add the following:
+  - 25g of beef extract
+  - 3.35g of $Na_{2}HPO_{4}\cdot7H_{2}O$
+  - 0.3g of citric acid
+2. Add 250 mL of autoclaved MQ
+3. Add a stirrer bar
+4. Mix until completely dissolved and adjust pH to 7.2
