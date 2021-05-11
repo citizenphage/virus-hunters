@@ -1,5 +1,47 @@
 # Recipes for reagents {-}
 
+## Agar ploates
+
+### Supplemental nutrients
+
+-   $CaCl_2.2H_{2}O$: Prepare a 1M stock solution (58.8g in 400 mL), autoclave.
+-   $MgCl_{2}.6H_{2}O$: Prepare a 1M stock solution (81.32g in 400 mL), autoclave.
+
+### To make 800 mL of bottom agar plates:
+
+To a 1L Schott bottle add:
+
+- stirrer bar
+- 20g LB broth
+- 8g agar
+- 784 mL MilliQ
+
+Autoclave and cool to 55 °C in a water bath before the following in a flowhood:
+
+- 8 mL $MgCl_{2}.6H_{2}O$ stock
+- 8 mL $CaCl_2.2H_{2}O$ stock.
+
+Place on a magnetic stirrer for 1 min and allow to cool to RT.
+
+### To make 800 mL of top agar:
+
+To a 1L Schott bottle add:
+
+- stirrer bar
+- 20g LB broth
+- 4.8g agar
+- 784 mL MilliQ
+
+Autoclave and cool to 55 °C in a water bath before the following in a flowhood:
+
+- 8 mL $MgCl_{2}.6H_{2}O$ stock
+- 8 mL $CaCl_2.2H_{2}O$ stock.
+
+Place on a magnetic stirrer for 1 min and allow to cool to RT.
+
+### A note on agar density thickness
+Abedon and Yin argue that because of modern agar extraction methods, contemporary agar is denser than old agar, so as a result plaques are smaller. They recommend instead using 1.0% agar in the bottom layer (10g per 1000 mL) and 0.65% agar in the top layer (6.5g in 1000 mL) [@Abedon2009-zt]. It is also recommended that plates are made fresh each time you need them (from microwaved agar), and that for spot assays, the phages are adsorbed to the agar as soon as it is gelled. The longer agar sits around, the drier and thus more dense it becomes. Bottom agar needs to be \~30 mL per 9cm petri dish. If it's too thin, then the bottom agar doesn't buffer the waste products from the top agar, nor nutrient replenishment, leading to premature termination of plaque growth.
+
 ## Precipitant solution
 This is a ready-mixed 30% w/v PEG-8000, 3 M NaCl solution for adding to phage lysate in a 1:2 ratio precipitant:lysate (10%PEG-8000, 1 M NaCl final conc.)
 

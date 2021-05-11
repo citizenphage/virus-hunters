@@ -14,3 +14,8 @@ cover-image: images/logo.v3.png
 \newpage
 # Welcome Phage Hunters! {-}
 
+
+## Meet the Team
+These are the team that will be helping you out through your phage hunting adventure:
+
+
