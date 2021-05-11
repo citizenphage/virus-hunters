@@ -5,6 +5,7 @@
 There will be a 1-hour presentation introducing you to the project. This will be held __at 9:35 am in LSI Seminar Room A__. You will also be provided with a sampling kit containing three jars. The aim is for each student to collect three samples of freshwater. __One__ of these should be from one of the ponds on campus. Try not to all sample the same pond! The other two can be from other sources near your homes or around Exeter. They can include ponds, rivers, bird baths, puddles etc. Each sample will need to be at least 25 mL (each jar holds 40 mL).
 
 ![](images/sampling.png)
+
 At each sample site, 
 
 - [ ] __Step 1__: Find an interesting sampling site
