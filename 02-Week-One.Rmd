@@ -4,6 +4,8 @@
 
 There will be a 1-hour presentation introducing you to the project. This will be held __at 9:35 am in LSI Seminar Room A__. You will also be provided with a sampling kit containing three jars. The aim is for each student to collect three samples of freshwater. __One__ of these should be from one of the ponds on campus. Try not to all sample the same pond! The other two can be from other sources near your homes or around Exeter. They can include ponds, rivers, bird baths, puddles etc. Each sample will need to be at least 25 mL (each jar holds 40 mL).
 
+When picking your sample site, it is worth noting that following heavy rainfall, many wastewater treatment plants have storm overflows that feed into rivers and streams. This makes these regions excellent hunting grounds for new phages. [There is a resource for finding such areas (in the interests of water safety) here](https://arcg.is/1He0XL). If we have rainfall just before sampling, it might be worth considering sites found on this map in the local region.
+
 ![](images/sampling.png)
 
 At each sample site, 
@@ -65,30 +67,36 @@ All you need to do is aliquot __100 µL__ of your original pathogen culture into
 
 
 ## Thursday 20th May
-* Students transfer 200 µL from each well into a 0.2 µm filter plate atop a regular, sterile 96 well plate.
-* Plate is spun at 900 x g for 4 mins to transfer filtrate to bottom plate
-* Into a fresh 200 µL 96-well plate, students add 190 µL of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ per well
-* 5 µL of phage lysate from bottom plate is added to each well
-* 10 µL of O/N host culture added to each well and plate sealed
-* Placed in an incubator O/N at 37 °C.
-* Students set up fresh O/N culture of pathogen
 
-### Materials required
-* 0.45 µm filter plate (Merck MSHAS4510) (15 total)
-* 2 x sterile 200 µL 96-well plate (30 total)
-* PCR film (15 total)
-* 2 sterilins with 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (30 total)
+Following overnight growth, the cultures in the deep-well plate should now be enriched in phages infecting your pathogen, provided they were in the original sample. Each well will also contain substances from the original sample that made it through the 0.2 µm filter. In this next step, we will start to culture the phages against their pathogen in pure culture. We filter material from the deep-well plate through a 0.45 µm filter into a fresh plate, then add that filtrate to a fresh culture (the reason we use a 0.45 µm filter instead of a 0.2 µm filter is simply due to cost - they are much cheaper!). This is a two-stage process to ensure the phage can be propagated in pure culture.
+
+![](images/first-filtration.png)
+
+- [ ] __Step 1a__: Collect your deep-well plate from the front, as well as your overnight culture and return it to your work area.
+- [ ] __Step 1b__: Open up a 0.45 µm filter plate and place it on top of a sterile 96-well plate. Write your name and pathogen directly on the bottom plate. Use label tape to tape the two plates together at the edge, just to stop them slipping apart.
+- [ ] __Step 1c__: Transfer __200 µL__ from each well **into the same well position** on the filter plate. It is important that you don't pipette into a wrong well, so we can track which phages came from which samples, so work slowly and carefully. If you do make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
+- [ ] __Step 1d__: Cover your filter plate with a seal and return it to the front.
+- [ ] __Step 2__: Our technicians will take your plate up to the 4th floor for centrifugation at 900 $\times g$ for 4 minutes. This will transfer the phage lysate into the bottom plate, but keep the pathogens in the top plate. The bottom plate is then used to infect fresh cultures.
+- [ ] __Step 3a__: Label your a fresh, sterile 200 µL 96-well plate with your name and pathogen. Into each well add __190 µL__ of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ per well in as many wells as you have samples. Like before work in rows so that it matches your deep-well plate.
+- [ ] __Step 3b__: Into each well add __10 µL__ of overnight host culture that you prepared in Step 3 yesterday. Each well contains an identical mixture, so you can use the same pipette tip for the whole plate.
+- [ ] __Step 4a__: Using a different pipette tip for each well, transfer __5 µL__ of phage lysate from each well of your bottom plate from Step 2 **into the same well position** on the plate containing LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ and overnight host culture. Mix by pipetting. Again, if you make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
+- [ ] __Step 4b__: Seal your plate with a plate seal.
+- [ ] __Step 5__: Set up your overnight culture of your pathogen for use tomorrow. To do this, aliquot __10 µL__ of your culture into a sterilin containing 10 mL of LB medium + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$. Label the sterilin with your name and the name of your pathogen. You can use the short name of the pathogen for this.
+- [ ] __Step 6__: Return your plate and new overnight culture to the front so we can place them in an incubator.
+
 
 ## Friday 21st May
-* Students transfer 200 µL from each well into a 0.2 µm filter plate atop a regular, sterile 96 well plate.
-* Plate is spun at 900 x g for 4 mins to transfer filtrate to bottom plate
-* Bottom plate is covered with PCR film and stored until Monday at 4 °C.
-* Students streak pathogen onto agar plate for growth over weekend.
+In this session, we will complete the second stage of the propagation in pure culture. It is very similar to what was done the previous day, but using our 200 µL culture plate instead of a deep-well plate. We will also prepare a streak plate for continuing the work next week.
 
-### Materials required
-* 0.45 µm filter plate (15 total)
-* 1 x sterile 200 µL 96-well plate (15 total)
-* PCR film (15 total)
-* 2 x LB agar plates for bacterial growth
-* Inoculating loops
+![](images/second-filtration.png)
+
+- [ ] __Step 1a__: Collect your plate from the front, as well as your overnight culture and return it to your work area.
+- [ ] __Step 1b__: Open up a 0.45 µm filter plate and place it on top of a sterile 96-well plate. Write your name and pathogen directly on the bottom plate. Use label tape to tape the two plates together at the edge, just to stop them slipping apart.
+- [ ] __Step 1c__: Transfer __200 µL__ from each well **into the same well position** on the filter plate. It is important that you don't pipette into a wrong well, so we can track which phages came from which samples, so work slowly and carefully. If you do make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
+- [ ] __Step 1d__: Cover your filter plate with a seal and return it to the front.
+- [ ] __Step 2__: Our technicians will take your plate up to the 4th floor for centrifugation at 900 $\times g$ for 4 minutes. 
+- [ ] __Step 3__: Retrieve your plate from the front and separate it from the filter plate. Cover the bottom plate with a seal. This will be used next week in the plaque assays.
+- [ ] __Step 4__: Label a petri dish containing bottom agar with your name, the date and the pathogen. Write around the edge of the 'bottom' of the petri dish (remember petri dishes are cultured with their lids on the bottom). Using inoculating loops, streak out some of your overnight culture onto the plate. Close the plate and put a small piece of tape on each edge to keep the lid on.
+- [ ] __Step 5__: Return your streak petri dish and sealed phage lysate plates to the front. We will store the phage lysate at 4 °C over the weekend and incubate the petri dish culture.
+
 
