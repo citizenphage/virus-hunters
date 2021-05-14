@@ -5,4 +5,6 @@
 * [Staphylococcus aureus Risk Assessment](RA/Staphylococcus-RA.pdf)
 * [Klebsiella pneumoniae Risk Assesment](RA/Klebisella-RA.pdf)
 * [Pseudomonas aeruginosa Risk Assesment](RA/Pseudomonas-RA.pdf)
+* [Escherichia coli Risk Assesment](RA/EC-RA.pdf)
+* [Enterococcus faecalis Risk Assesment](RA/EF-RA.pdf)
 
