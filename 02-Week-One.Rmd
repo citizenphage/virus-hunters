@@ -20,6 +20,21 @@ When you get home, keep the samples in your fridge overnight.
 
 Record the details of your sample on the Sample tab on the [Google sheet here](https://docs.google.com/spreadsheets/d/1V6doztAX4AQ5657eH5r0GbJj_GnfMxTe4eKh7metXl0/edit?usp=sharing). Make sure you provide the What3Words address, the date and a brief description of the sample, as well as your name. You do not need to supply a sample number - these will be assigned once all samples are collected.
 
+If you want to register your samples as part of the Citizen Phage Library project, you can also register them on the CPL portal. This is currently hosted at the university, so you'll need to be on the VPN or on University campus.
+
+1. Make sure you are either on campus or on the [University VPN](https://www.exeter.ac.uk/it/howdoi/vpn/)
+2. Go to [this site](http://144.173.115.131/)
+3. Click on 'Sign In'
+4. Click on 'Sign Up'
+5. Enter a username, email address and choose a password
+6. A confirmation email will be sent to your email address - click on the link it contains to complete registration and it should take you to your account page.
+7. You need to register your sampling kit before you register samples, so select the 'Order or register a sampling kit' button.
+8. Find your Sample Kit ID on the side of your sampling kit and type it in (e.g. K-00001)
+9. Click submit - this registers that kit ID with your account.
+10. For each sample, click on 'Register your samples'.
+11. Enter the What3Words address, the date taken and give a description of the sample. Choose the sample picture for uploading. Your registered Sample Kit should be selected by default.
+12. Press Submit.
+
 ## Tuesday 18th May
 
 The aim of this session is to prepare your samples for phage hunting. This involves removing solid debris and bacteria by centrifugation and filtering, leaving only the phages (which are smaller than the filter size) in the filtrate. Each sample will be aliquoted into 15 aliquots (one per student).
