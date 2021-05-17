@@ -23,6 +23,9 @@ Record the details of your sample on the Sample tab on the [Google sheet here](h
 If you want to register your samples as part of the Citizen Phage Library project, you can also register them on the CPL portal. This is currently hosted at the university, so you'll need to be on the VPN or on University campus.
 
 
+__This is currently not working due to a bug, so please record your samples on the Excel spreadsheet and I'll try and fix it this week so you can record your samples retrospectively.__
+
+
 1. Make sure you are either on campus or on the [University VPN](https://www.exeter.ac.uk/it/howdoi/vpn/)
 2. Go to [this site](http://144.173.115.131/)
 3. Click on 'Sign In'
