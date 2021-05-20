@@ -96,12 +96,15 @@ Following overnight growth, the cultures in the deep-well plate should now be en
 - [ ] __Step 1c__: Transfer __200 µL__ from each well **into the same well position** on the filter plate. It is important that you don't pipette into a wrong well, so we can track which phages came from which samples, so work slowly and carefully. If you do make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
 - [ ] __Step 1d__: Cover your filter plate with a seal and return it to the front.
 - [ ] __Step 2__: Our technicians will take your plate up to the 4th floor for centrifugation at 900 $\times g$ for 4 minutes. This will transfer the phage lysate into the bottom plate, but keep the pathogens in the top plate. The bottom plate is then used to infect fresh cultures.
-- [ ] __Step 3a__: Label your a fresh, sterile 200 µL 96-well plate with your name and pathogen. Into each well add __190 µL__ of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ per well in as many wells as you have samples. Like before work in rows so that it matches your deep-well plate.
-- [ ] __Step 3b__: Into each well add __10 µL__ of overnight host culture that you prepared in Step 3 yesterday. Each well contains an identical mixture, so you can use the same pipette tip for the whole plate.
-- [ ] __Step 4a__: Using a different pipette tip for each well, transfer __5 µL__ of phage lysate from each well of your bottom plate from Step 2 **into the same well position** on the plate containing LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ and overnight host culture. Mix by pipetting. Again, if you make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
+- [ ] __Step 3a__: Make a stock culture by adding __500 µL__ of overnight host culture into __9.5 mL__ of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$. Mix briefly by vortexing for 1-2 seconds.
+- [ ] __Step 3b__: Label your a fresh, sterile 200 µL 96-well plate with your name and pathogen. Into each well add __200 µL__ of the stock culture from the step above per well in as many wells as you have samples (including the negative control). Like before work in rows so that it matches your deep-well plate. Change your pipette tip every row and briefly revortex your stock culture to bring it back into resuspension.
+- [ ] __Step 4a__: Using a different pipette tip for each well, transfer __5 µL__ of phage lysate from each well of your bottom plate from Step 2 **into the same well position** on the plate containing LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ host culture. Mix by pipetting. Again, if you make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
 - [ ] __Step 4b__: Seal your plate with a plate seal.
-- [ ] __Step 5__: Set up your overnight culture of your pathogen for use tomorrow. To do this, aliquot __10 µL__ of your culture into a sterilin containing 10 mL of LB medium + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$. Label the sterilin with your name and the name of your pathogen. You can use the short name of the pathogen for this.
-- [ ] __Step 6__: Return your plate and new overnight culture to the front so we can place them in an incubator.
+- [ ] __Step 5__: Set up your overnight culture of your pathogen for use tomorrow. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the bacteria on the loop into a fresh aliquot of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$. 
+
+- [ ] __Step 6__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat.
+
+- [ ] __Step 7__: Return your 96-well plate, new overnight culture in LB and the new streak plate to the front so we can place them in an incubator.
 
 
 ## Friday 21st May
@@ -115,7 +118,7 @@ In this session, we will complete the second stage of the propagation in pure cu
 - [ ] __Step 1d__: Cover your filter plate with a seal and return it to the front.
 - [ ] __Step 2__: Our technicians will take your plate up to the 4th floor for centrifugation at 900 $\times g$ for 4 minutes. 
 - [ ] __Step 3__: Retrieve your plate from the front and separate it from the filter plate. Cover the bottom plate with a seal. This will be used next week in the plaque assays.
-- [ ] __Step 4__: Label a petri dish containing bottom agar with your name, the date and the pathogen. Write around the edge of the 'bottom' of the petri dish (remember petri dishes are cultured with their lids on the bottom). Using inoculating loops, streak out some of your overnight culture onto the plate. Close the plate and put a small piece of tape on each edge to keep the lid on.
+- [ ] __Step 4__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat.
 - [ ] __Step 5__: Return your streak petri dish and sealed phage lysate plates to the front. We will store the phage lysate at 4 °C over the weekend and incubate the petri dish culture.
 
 
