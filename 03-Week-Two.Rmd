@@ -37,60 +37,81 @@ where __B__ is where you'll put your blank, __C__ is where you'll put your chick
 
 
 ## Tuesday 25th May
-Students will pick plaques and perform first round of O/N purification steps. We are going to assume a maximum of 3 phages per student.
 
-* Students will take a photo of their plates to record plaque morphology
-* For each plaque, students will core the plaque using a pipette tip and place it in 200 µL of SM buffer in a microcentrifuge tube, before vortexing briefly.
-* Students will then set up a dilution series from $10^{0}$ to $10^{-11}$ in SM Buffer in a 96 well plate (one row per phage)
-* Using the same method as the spot assay, students will spot the 12 dilutions onto a single plate (so one plate per phage).
-* Plates will be left O/N for plaques to develop
+It's plaque-picking day! Hopefully, at least one of your samples will have yielded a plaque on one of the hosts we have attempted. With a bit of luck, you are now the discoverer of a new virus (or viruses!). At this stage, there is the possibility that each plaque comprises a mixture of phages. 
 
-### Materials required
-* 10 mL pathogen culture
-* 3 glass test tubes with lids containing 3 mL molten agar (45 total)
-* 3 petri dishes with bottom agar (45 total)
-* water bath (or heat blocks if the tubes will fit in).
-* 1 sterile 96 well plate (15 total)
-* 3 lo-bind microcentrifuge tubes (45 total)
+If phages for the host are common in the sample, (e.g. *E. coli* phages in sewage), it's quite likely that more than one suitable phage was in the original overnight inoculum. This is where infection efficiency comes into play in enrichment cultures - phages that replicate faster than other phages will produce more progeny. Following the first round of enrichment, the fastest phages will be the most abundant. The second round of enrichment in pure culture provides a second round of purifying selection. So, even if the initial sample had lots of suitable phages, it's reasonably likely that by this stage, your lysate contains only one or two phages.
+
+So, if we are interested in recovering the maximum *diversity* of phages from a sample, then enrichment is not advised, if samples contain lots of different phages. To maximise diversity, the best way is to just do directly spot the original sample on a lawn of bacteria and look for different plaque morphologies. 
+
+For our purposes, we use enrichment for two reasons: First, there are many hosts for which viruses are not common, so we need to amplify them up in order to isolate them. Second, even if a sample contains lots of suitable phages, the ones best suited for phage therapy are those that are the fastest replicating, most virulent phages for that host - i.e. the ones that would be victorious in purifying selection during enrichment.
+
+There is still the risk though that we have multiple fast replicating phages in our lysate. If we were to extract DNA from these now and then sequence them, we run the risk of combining the genomes of two phages. Even if we can assemble them into individual phage genomes, we could end up with a mixture of phages where one is suitable for therapeutic use and the other isn't. So, we need to purify them into an axenic culture. 
+
+We do this through something called 'Dilution to Extinction' purification. Briefly, we take a plaque sample, then use it to make a dilution series. We plate out each dilution in a spot assay until we can see individual plaques. 
+
+![](images/spot-dilution.png)
+
+We then pick a plaque that is from the greatest amount of dilution (lowest concentration of phages). It is possible that there could still be more than one phage in this plaque, if we were unlucky, so we repeat the process another two times. For the rest of this week, we will be performing these purification steps.
+
+- [ ] __Step 1__: Collect your plates from the front and note the samples for which you have plaques. Make a record of the features of the plaque (We'll take photos of each plate with plaques).
+* *How big is it?* Plaque size is a function of how easily the virus diffuses through the medium (e.g. size) and how fast it replicates - plaques stop growing when the hosts reach stationary phase in the medium. The faster it replicates, the greater the number of replication cycles, the larger the plaque.
+* *Does it have a halo?* A halo is a good indicator of a virulent phage with an explosive escape from the cell powered by lysins. Lysins continue to diffuse through the medium and kill hosts after the viral plaque has stopped growing, creating a halo. 
+* *Is the centre clear or cloudy?* Cloudy plaques are usually a good indicator of a temperate phage. Temperate phages confer __superinfection immunity__ to the cell, preventing infection from other similar phages. Protected from lytic infection in this way, the cells can continue to replicate in the plaque, causing it to be cloudy. It doesn't reach the same density as the surrounding lawn because the lytic/lysogenic switch is a stochastic process, so some killing continues.
+
+For each plaque on your plate you will need to perform the steps below. If your plate doesn't have any plaques, we will assign you a plaque from a different plate.
+
+- [ ] __Step 2a__: Label a microcentrifuge tube containing 100 µL of SM buffer with the number of the sample, the host and your name.
+- [ ] __Step 2b__: Under a blue flame, take the lid off of your plate. Set a 1000 µL pipette to 200 µL. Using a blue pipette tip take a core of the plaque (we'll show you how to do this) and eject the agar core into the 100 µL of SM buffer. Vortex the microcentrifuge tube for 2-3 seconds, leave for 5 minutes then vortex again for 2-3 seconds. The viruses will be released from the agar into the SM buffer.
+
+![](images/dte-plate.png)
+
+
+- [ ] __Step 3a__: Into a 96 well plate, set up a dilution series in a row for each plaque you have picked. Pipette __90 µL__ of SM buffer into wells 2 through 11 (ignore columns 1 and 12). You can use the same pipette tip for each row.
+- [ ] __Step 3b__: Pipette __100 µL__ from your microcentrifuge tube into column 1.
+- [ ] __Step 3c__: Pipette __10 µL__ from column 1 into column 2 and mix with gentle pipetting.
+- [ ] __Step 3d__: Pipette __10 µL__ from column 2 into column 3 and mix with gentle pipetting.
+- [ ] __Step 3e__: Pipette __10 µL__ from column 3 into column 4 and mix with gentle pipetting.
+- [ ] __Step 3f__: Repeat this process of adding __10 µL__ of mixture from column $n$ into $n+1$ and mixing until you've added 10 µL to column 11 and mixed.
+- [ ] __Step 3g__: Change your pipette tip and do this each microcentrifuge tube you have, with each going into column 1 on a different row. 
+
+
+- [ ] __Step 4a__: Collect a bottom agar plate for every row you have filled on your 96-well plate.
+- [ ] __Step 4b__: Divide it into quadrants and mark the locations of the dilution series as shown in the figure below.
+![](images/dte-layout.png)
+The numbers correspond to the columns of the plate. To convert to dilution factor, we subtract 1 and raise it to the power of 10, e.g. Position 1 is undiluted ($10^{0}$), Position 2 is a 10-fold dilution ($10^{1}$) etc. Label the plate with your name, the host name, the date and the sample number from which the plaque was picked.
+- [ ] __Step 5__: Using the same protocol as yesterday, visit a pouring station and make a lawn of bacteria on your plates and allow to set for 15 mins before taking them back to your bench.
+- [ ] __Step 6__: Using the same method as yesterday, spot __5 µL__ from each well in a row of your 96-well plate onto their assigned position on the plate. Onto the blank (__B__), pipette __5 µL__ of SM buffer. We want to make sure any 'plaque' is a result of viral infection, not an interaction with the buffer. Allow the spots to dry before inverting your plate and bringing it to the front for us to put in an incubator overnight.
+- [ ] __Step 7__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
+- [ ] __Step 8__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
+
 
 ## Wednesday 26th May
-From each plate, students will pick plaque from the biggest dilution (fewest phages) and perform second round of O/N purification. We are going to assume a maximum of 3 phages per student.
 
-* Students will take a photo of their plates to record plaque morphology
-* For each plaque, students will core the plaque using a pipette tip and place it in 200 µL of SM buffer in a microcentrifuge tube, before vortexing briefly.
-* Students will then set up a dilution series from $10^{0}$ to $10^{-11}$ in SM Buffer in a 96 well plate (one row per phage)
-* Using the same method as the spot assay, students will spot the 12 dilutions onto a single plate (so one plate per phage).
-* Plates will be left O/N for plaques to develop
+Hopefully, following overnight culture, your plates will look something like this:
 
-### Materials required
-* 10 mL pathogen culture
-* 3 glass test tubes with lids containing 3 mL molten agar (45 total)
-* 3 petri dishes with bottom agar (45 total)
-* water bath (or heat blocks if the tubes will fit in).
-* 1 sterile 96 well plate (15 total)
-* 3 lo-bind microcentrifuge tubes (45 total)
+![](images/spot-dilution.png)
+
+The next step is to core an individual plaque from the largest dilution number (e.g at $10^{-9}$ here) and repeat the dilution to extinction process.
+
+- [ ] __Step 1__: Label a microcentrifuge tube containing __100 µL__ of SM buffer with the number of the sample, the host and your name for each plate from yesterday.
+- [ ] __Step 2__: Under a blue flame, take the lid off of your plate. Take a core of an individual plaque from the largest dilution number. _If you have clearly distinct plaque morphologies at high dilutions, it could be an opportunity to isolate another phage, so let us know!_
+- [ ] __Step 3__: Add the core to the 100 µL of SM buffer, vortex, let sit and vortex again as you did yesterday.
+- [ ] __Step 4__: Set up your dilution series on a 96-well plate as you did yesterday.
+- [ ] __Step 5__: Collect your bottom agar plates and label them up as you did yesterday (date, sample, name, host, plus dilution well in quadrants).
+- [ ] __Step 6__: Prepare your bacterial lawns at a pouring station.
+- [ ] __Step 7__: Under a blue flame, spot __5 µL__ of each dilution onto the freshly set lawn in the appropriate position and allow to dry. 
+- [ ] __Step 7__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
+- [ ] __Step 8__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
+
 
 ## Thursday 27th May
-From each plate, students will pick plaque from the biggest dilution (fewest phages) and perform third round of O/N purification. We are going to assume a maximum of 3 phages per student.
-
-* Students will take a photo of their plates to record plaque morphology
-* For each plaque, students will core the plaque using a pipette tip and place it in 200 µL of SM buffer in a microcentrifuge tube, before vortexing briefly.
-* Students will then set up a dilution series from $10^{0}$ to $10^{-11}$ in SM Buffer in a 96 well plate (one row per phage)
-* Using the same method as the spot assay, students will spot the 12 dilutions onto a single plate (so one plate per phage).
-* Plates will be left O/N for plaques to develop
-* Students will set up O/N cultures of host 
-
-### Materials required
-* 10 mL pathogen culture
-* 3 glass test tubes with lids containing 3 mL molten agar (45 total)
-* 3 petri dishes with bottom agar (45 total)
-* water bath (or heat blocks if the tubes will fit in).
-* 1 sterile 96 well plate (15 total)
-* 3 lo-bind microcentrifuge tubes (45 total)
-* 2 sterilins containing 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (30 total)
+Final Round! Today we repeat what we did yesterday for the final round of purification. At the end of this, plaques are virtually certain to be axenic.
 
 ## Friday 28th May
-From each plate, students will pick plaque from the biggest dilution (fewest phages) and bulk it up on hosts overnight.
+We should now have plaques that are single axenic viral cultures. Now we need to bulk them up for sequencing and imaging and for making viral stocks for future use.
+
+
 
 * Students will take a photo of their plates to record plaque morphology. These will also be used to determine approximate PFU counts.
 * Students will pick plaque from the biggest dilution (fewest phages) and add it to 50 mL of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$, amended with 1 mL of O/N host culture.
