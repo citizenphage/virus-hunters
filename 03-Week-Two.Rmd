@@ -17,6 +17,7 @@ Today, we set up the first spot assay to see if we have any viruses in your samp
 We've set up three pouring stations with water baths containing glass test tubes with 3 mL molten top agar in them. Students will come up in turn and pour their host lawns. You'll have one extra plate for a practice pour. 
 
 ![](images/first-plaque-assay.png)
+
 - [ ] __Step 1__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
 
 - [ ] __Step 2__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
