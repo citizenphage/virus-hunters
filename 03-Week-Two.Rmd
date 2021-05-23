@@ -17,23 +17,23 @@ Today, we set up the first spot assay to see if we have any viruses in your samp
 We've set up three pouring stations with water baths containing glass test tubes with 3 mL molten top agar in them. Students will come up in turn and pour their host lawns. You'll have one extra plate for a practice pour. 
 
 ![](images/first-plaque-assay.png)
+- [ ] __Step 1__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
+- [ ] __Step 2__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
 
-
-- [ ] __Step 1__: Collect your plate of phage lysates from last week and a culture of your host at $OD_{600}$ of 0.6. You will also need `r ceiling((num_samples+1)/12) + 1` bottom agar plates. You'll also need to collect a microcentrifuge tube of the phage lysate for your host from the chicken sample (__C__), and a microcentrifuge tube of the phage lysate for your host from the sewage sample (__S__). 
-- [ ] __Step 2__: You'll be putting 12 spots per plate (one per sample). I find the easiest way to do this is to divide your plate into quadrants, and then place three spots per quadrant. Draw two perpendicular bisecting lines on the bottom of each plate with a ruler to divide it into quadrants. Mark one edge with an arrow so we can orientate it. Label each plate with your name, the host bacterium, the date, and _Plate 1_ through _Plate `r ceiling((num_samples+1)/12)`_. Label the last plate _Practice_. On your three numbered plates, write the numbers of the samples where you are going to put them in the quadrants as shown here:
+- [ ] __Step 3__: Collect your plate of phage lysates from last week and a culture of your host at $OD_{600}$ of 0.6. You will also need `r ceiling((num_samples+1)/12) + 1` bottom agar plates. You'll also need to collect a microcentrifuge tube of the phage lysate for your host from the chicken sample (__C__), and a microcentrifuge tube of the phage lysate for your host from the sewage sample (__S__). 
+- [ ] __Step 4__: You'll be putting 12 spots per plate (one per sample). I find the easiest way to do this is to divide your plate into quadrants, and then place three spots per quadrant. Draw two perpendicular bisecting lines on the bottom of each plate with a ruler to divide it into quadrants. Mark one edge with an arrow so we can orientate it. Label each plate with your name, the host bacterium, the date, and _Plate 1_ through _Plate `r ceiling((num_samples+1)/12)`_. Label the last plate _Practice_. On your three numbered plates, write the numbers of the samples where you are going to put them in the quadrants as shown here:
 
 ![](images/plate-layout.png)
 where __B__ is where you'll put your blank, __C__ is where you'll put your chicken sample and __S__ is where you'll put your sewage sample.
 
 
-- [ ] __Step 3a__: Bring your labelled plates and host culture to a pouring station. We'll walk you through the process. Briefly vortex your host culture (1-2 seconds) to resuspend it. Under a blue flame, put your practice plate in front of you and take off the lid. Take the cap off of a tube of molten agar, but leave it in the water bath. Use a pipette to suck up 1 mL of host culture into a blue tip. Using the other hand, take the tube of molten agar out of the bath and add the 1 mL of culture to it. Immediately vortex the agar (1-2 seconds) to mix and pour quickly but smoothly into the centre of the practice plate. If there are any bubbles in the tube, they'll come out last, and you want to leave them in the tube. Quickly place the tube into the waste beaker and swirl the plate to ensure even coverage of the agar across the surface. Put the lid back on the plate, but leave it with the agar on the bottom to allow the top agar to set. Slide the plate over to one side and repeat with your remaining three plates. Note the time or set a timer for 15 minutes.
-- [ ] __Step 3b__: After 15 minutes, collect your plates (the top agar should now be set) and take them back to your work area. Spot assays work best if the phages are added shortly after the top agar has set.
-- [ ] __Step 4a__: Under a blue flame, open up Plate 1 and spot 5 µL of sample from the first eleven samples of your 96 well plate, plus your blank onto their appropriate locations on the plate. To do this, gently push the liquid out of the pipette over the location, when it has formed a droplet, touch the droplet to the surface of the agar to transfer.
-- [ ] __Step 4b__: Cover the plate and gently slide it to one side so as not to disturb the drops (or you get long, streaky plaques). As long as it is still near the blue flame, slide the lids partially to one side to speed up drying. __DO NOT INVERT THE PLATE__. It can take 20-30 mins outside of a flowhood for a droplet to dry, so we want to leave it as long as possible. Once the droplet is dry, any phages will diffuse through the agar and find their prey.
-- [ ] __Step 4c__: Repeat the process with the remaining two plates and the remaining samples. As before, if you accidentally put a sample on the wrong spot, make a note of it so we can correct it later.
-- [ ] __Step 4d__: When the last plate is dry, slide the lids back on and invert the plates. Bring the plates to the front and we will incubate them at 37 °C overnight to allow plaque formation.
-- [ ] __Step 5__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
-- [ ] __Step 6__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
+- [ ] __Step 5a__: Bring your labelled plates and host culture to a pouring station. We'll walk you through the process. Briefly vortex your host culture (1-2 seconds) to resuspend it. Under a blue flame, put your practice plate in front of you and take off the lid. Take the cap off of a tube of molten agar, but leave it in the water bath. Use a pipette to suck up 1 mL of host culture into a blue tip. Using the other hand, take the tube of molten agar out of the bath and add the 1 mL of culture to it. Immediately vortex the agar (1-2 seconds) to mix and pour quickly but smoothly into the centre of the practice plate. If there are any bubbles in the tube, they'll come out last, and you want to leave them in the tube. Quickly place the tube into the waste beaker and swirl the plate to ensure even coverage of the agar across the surface. Put the lid back on the plate, but leave it with the agar on the bottom to allow the top agar to set. Slide the plate over to one side and repeat with your remaining three plates. Note the time or set a timer for 15 minutes.
+- [ ] __Step 5b__: After 15 minutes, collect your plates (the top agar should now be set) and take them back to your work area. Spot assays work best if the phages are added shortly after the top agar has set.
+- [ ] __Step 6a__: Under a blue flame, open up Plate 1 and spot 5 µL of sample from the first eleven samples of your 96 well plate, plus your blank onto their appropriate locations on the plate. To do this, gently push the liquid out of the pipette over the location, when it has formed a droplet, touch the droplet to the surface of the agar to transfer.
+- [ ] __Step 6b__: Cover the plate and gently slide it to one side so as not to disturb the drops (or you get long, streaky plaques). As long as it is still near the blue flame, slide the lids partially to one side to speed up drying. __DO NOT INVERT THE PLATE__. It can take 20-30 mins outside of a flowhood for a droplet to dry, so we want to leave it as long as possible. Once the droplet is dry, any phages will diffuse through the agar and find their prey.
+- [ ] __Step 6c__: Repeat the process with the remaining two plates and the remaining samples. As before, if you accidentally put a sample on the wrong spot, make a note of it so we can correct it later.
+- [ ] __Step 6d__: When the last plate is dry, slide the lids back on and invert the plates. Bring the plates to the front and we will incubate them at 37 °C overnight to allow plaque formation.
+
 
 
 ## Tuesday 25th May
@@ -54,36 +54,38 @@ We do this through something called 'Dilution to Extinction' purification. Brief
 
 We then pick a plaque that is from the greatest amount of dilution (lowest concentration of phages). It is possible that there could still be more than one phage in this plaque, if we were unlucky, so we repeat the process another two times. For the rest of this week, we will be performing these purification steps.
 
-- [ ] __Step 1__: Collect your plates from the front and note the samples for which you have plaques. Make a record of the features of the plaque (We'll take photos of each plate with plaques).
+- [ ] __Step 1__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
+- [ ] __Step 2__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
+
+- [ ] __Step 3__: Collect your plates from the front and note the samples for which you have plaques. Make a record of the features of the plaque (We'll take photos of each plate with plaques).
 * *How big is it?* Plaque size is a function of how easily the virus diffuses through the medium (e.g. size) and how fast it replicates - plaques stop growing when the hosts reach stationary phase in the medium. The faster it replicates, the greater the number of replication cycles, the larger the plaque.
 * *Does it have a halo?* A halo is a good indicator of a virulent phage with an explosive escape from the cell powered by lysins. Lysins continue to diffuse through the medium and kill hosts after the viral plaque has stopped growing, creating a halo. 
 * *Is the centre clear or cloudy?* Cloudy plaques are usually a good indicator of a temperate phage. Temperate phages confer __superinfection immunity__ to the cell, preventing infection from other similar phages. Protected from lytic infection in this way, the cells can continue to replicate in the plaque, causing it to be cloudy. It doesn't reach the same density as the surrounding lawn because the lytic/lysogenic switch is a stochastic process, so some killing continues.
 
 For each plaque on your plate you will need to perform the steps below. If your plate doesn't have any plaques, we will assign you a plaque from a different plate.
 
-- [ ] __Step 2a__: Label a microcentrifuge tube containing 100 µL of SM buffer with the number of the sample, the host and your name.
-- [ ] __Step 2b__: Under a blue flame, take the lid off of your plate. Set a 1000 µL pipette to 200 µL. Using a blue pipette tip take a core of the plaque (we'll show you how to do this) and eject the agar core into the 100 µL of SM buffer. Vortex the microcentrifuge tube for 2-3 seconds, leave for 5 minutes then vortex again for 2-3 seconds. The viruses will be released from the agar into the SM buffer.
+- [ ] __Step 4a__: Label a microcentrifuge tube containing 100 µL of SM buffer with the number of the sample, the host and your name.
+- [ ] __Step 4b__: Under a blue flame, take the lid off of your plate. Set a 1000 µL pipette to 200 µL. Using a blue pipette tip take a core of the plaque (we'll show you how to do this) and eject the agar core into the 100 µL of SM buffer. Vortex the microcentrifuge tube for 2-3 seconds, leave for 5 minutes then vortex again for 2-3 seconds. The viruses will be released from the agar into the SM buffer.
 
 ![](images/dte-plate.png)
 
 
-- [ ] __Step 3a__: Into a 96 well plate, set up a dilution series in a row for each plaque you have picked. Pipette __90 µL__ of SM buffer into wells 2 through 11 (ignore columns 1 and 12). You can use the same pipette tip for each row.
-- [ ] __Step 3b__: Pipette __100 µL__ from your microcentrifuge tube into column 1.
-- [ ] __Step 3c__: Pipette __10 µL__ from column 1 into column 2 and mix with gentle pipetting.
-- [ ] __Step 3d__: Pipette __10 µL__ from column 2 into column 3 and mix with gentle pipetting.
-- [ ] __Step 3e__: Pipette __10 µL__ from column 3 into column 4 and mix with gentle pipetting.
-- [ ] __Step 3f__: Repeat this process of adding __10 µL__ of mixture from column $n$ into $n+1$ and mixing until you've added 10 µL to column 11 and mixed.
-- [ ] __Step 3g__: Change your pipette tip and do this each microcentrifuge tube you have, with each going into column 1 on a different row. 
+- [ ] __Step 5a__: Into a 96 well plate, set up a dilution series in a row for each plaque you have picked. Pipette __90 µL__ of SM buffer into wells 2 through 11 (ignore columns 1 and 12). You can use the same pipette tip for each row.
+- [ ] __Step 5b__: Pipette __100 µL__ from your microcentrifuge tube into column 1.
+- [ ] __Step 5c__: Pipette __10 µL__ from column 1 into column 2 and mix with gentle pipetting.
+- [ ] __Step 5d__: Pipette __10 µL__ from column 2 into column 3 and mix with gentle pipetting.
+- [ ] __Step 5e__: Pipette __10 µL__ from column 3 into column 4 and mix with gentle pipetting.
+- [ ] __Step 5f__: Repeat this process of adding __10 µL__ of mixture from column $n$ into $n+1$ and mixing until you've added 10 µL to column 11 and mixed.
+- [ ] __Step 5g__: Change your pipette tip and do this each microcentrifuge tube you have, with each going into column 1 on a different row. 
 
 
-- [ ] __Step 4a__: Collect a bottom agar plate for every row you have filled on your 96-well plate.
-- [ ] __Step 4b__: Divide it into quadrants and mark the locations of the dilution series as shown in the figure below.
+- [ ] __Step 6a__: Collect a bottom agar plate for every row you have filled on your 96-well plate.
+- [ ] __Step 6b__: Divide it into quadrants and mark the locations of the dilution series as shown in the figure below.
 ![](images/dte-layout.png)
 The numbers correspond to the columns of the plate. To convert to dilution factor, we subtract 1 and raise it to the power of 10, e.g. Position 1 is undiluted ($10^{0}$), Position 2 is a 10-fold dilution ($10^{1}$) etc. Label the plate with your name, the host name, the date and the sample number from which the plaque was picked.
-- [ ] __Step 5__: Using the same protocol as yesterday, visit a pouring station and make a lawn of bacteria on your plates and allow to set for 15 mins before taking them back to your bench.
-- [ ] __Step 6__: Using the same method as yesterday, spot __5 µL__ from each well in a row of your 96-well plate onto their assigned position on the plate. Onto the blank (__B__), pipette __5 µL__ of SM buffer. We want to make sure any 'plaque' is a result of viral infection, not an interaction with the buffer. Allow the spots to dry before inverting your plate and bringing it to the front for us to put in an incubator overnight.
-- [ ] __Step 7__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
-- [ ] __Step 8__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
+- [ ] __Step 7__: Using the same protocol as yesterday, visit a pouring station and make a lawn of bacteria on your plates and allow to set for 15 mins before taking them back to your bench.
+- [ ] __Step 8__: Using the same method as yesterday, spot __5 µL__ from each well in a row of your 96-well plate onto their assigned position on the plate. Onto the blank (__B__), pipette __5 µL__ of SM buffer. We want to make sure any 'plaque' is a result of viral infection, not an interaction with the buffer. Allow the spots to dry before inverting your plate and bringing it to the front for us to put in an incubator overnight.
+
 
 
 ## Wednesday 26th May
@@ -94,15 +96,17 @@ Hopefully, following overnight culture, your plates will look something like thi
 
 The next step is to core an individual plaque from the largest dilution number (e.g at $10^{-9}$ here) and repeat the dilution to extinction process.
 
-- [ ] __Step 1__: Label a microcentrifuge tube containing __100 µL__ of SM buffer with the number of the sample, the host and your name for each plate from yesterday.
-- [ ] __Step 2__: Under a blue flame, take the lid off of your plate. Take a core of an individual plaque from the largest dilution number. _If you have clearly distinct plaque morphologies at high dilutions, it could be an opportunity to isolate another phage, so let us know!_
-- [ ] __Step 3__: Add the core to the 100 µL of SM buffer, vortex, let sit and vortex again as you did yesterday.
-- [ ] __Step 4__: Set up your dilution series on a 96-well plate as you did yesterday.
-- [ ] __Step 5__: Collect your bottom agar plates and label them up as you did yesterday (date, sample, name, host, plus dilution well in quadrants).
-- [ ] __Step 6__: Prepare your bacterial lawns at a pouring station.
-- [ ] __Step 7__: Under a blue flame, spot __5 µL__ of each dilution onto the freshly set lawn in the appropriate position and allow to dry. 
-- [ ] __Step 7__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
-- [ ] __Step 8__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
+
+- [ ] __Step 1__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
+- [ ] __Step 2__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
+
+- [ ] __Step 3__: Label a microcentrifuge tube containing __100 µL__ of SM buffer with the number of the sample, the host and your name for each plate from yesterday.
+- [ ] __Step 4__: Under a blue flame, take the lid off of your plate. Take a core of an individual plaque from the largest dilution number. _If you have clearly distinct plaque morphologies at high dilutions, it could be an opportunity to isolate another phage, so let us know!_
+- [ ] __Step 5__: Add the core to the 100 µL of SM buffer, vortex, let sit and vortex again as you did yesterday.
+- [ ] __Step 6__: Set up your dilution series on a 96-well plate as you did yesterday.
+- [ ] __Step 7__: Collect your bottom agar plates and label them up as you did yesterday (date, sample, name, host, plus dilution well in quadrants).
+- [ ] __Step 8__: Prepare your bacterial lawns at a pouring station.
+- [ ] __Step 9__: Under a blue flame, spot __5 µL__ of each dilution onto the freshly set lawn in the appropriate position and allow to dry. 
 
 
 ## Thursday 27th May
