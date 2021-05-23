@@ -18,6 +18,7 @@ We've set up three pouring stations with water baths containing glass test tubes
 
 ![](images/first-plaque-assay.png)
 - [ ] __Step 1__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat. Label with your name, date and host name.
+
 - [ ] __Step 2__: Make a fresh overnight culture for tomorrow's plaque assays. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Transfer the loop into fresh LB medium in a sterilin. Reflame your loop. Label the sterilin with your name, date and host name. Bring the new streak plate and overnight culture to the front for us to incubate.
 
 - [ ] __Step 3__: Collect your plate of phage lysates from last week and a culture of your host at $OD_{600}$ of 0.6. You will also need `r ceiling((num_samples+1)/12) + 1` bottom agar plates. You'll also need to collect a microcentrifuge tube of the phage lysate for your host from the chicken sample (__C__), and a microcentrifuge tube of the phage lysate for your host from the sewage sample (__S__). 
