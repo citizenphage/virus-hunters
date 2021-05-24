@@ -34,8 +34,7 @@ where __B__ is where you'll put your blank, __C__ is where you'll put your chick
 - [ ] __Step 6a__: Under a blue flame, open up Plate 1 and spot 5 µL of sample from the first eleven samples of your 96 well plate, plus your blank onto their appropriate locations on the plate. To do this, gently push the liquid out of the pipette over the location, when it has formed a droplet, touch the droplet to the surface of the agar to transfer.
 - [ ] __Step 6b__: Cover the plate and gently slide it to one side so as not to disturb the drops (or you get long, streaky plaques). As long as it is still near the blue flame, slide the lids partially to one side to speed up drying. __DO NOT INVERT THE PLATE__. It can take 20-30 mins outside of a flowhood for a droplet to dry, so we want to leave it as long as possible. Once the droplet is dry, any phages will diffuse through the agar and find their prey.
 - [ ] __Step 6c__: Repeat the process with the remaining two plates and the remaining samples. As before, if you accidentally put a sample on the wrong spot, make a note of it so we can correct it later.
-- [ ] __Step 6d__: When the last plate is dry, slide the lids back on and invert the plates. Bring the plates to the front and we will incubate them at 37 °C overnight to allow plaque formation.
-
+- [ ] __Step 6d__: When the last plate is dry, slide the lids back on and invert the plates. Bring the plates to the front and we will incubate them at 37 °C overnight to allow plaque formation. Put a PCR film on the 96-well plate of lysate plate and return it to the front (we'll keep it just in case!)
 
 
 ## Tuesday 25th May
