@@ -81,8 +81,11 @@ For each plaque on your plate you will need to perform the steps below. If your 
 
 - [ ] __Step 6a__: Collect a bottom agar plate for every row you have filled on your 96-well plate.
 - [ ] __Step 6b__: Divide it into quadrants and mark the locations of the dilution series as shown in the figure below.
+
 ![](images/dte-layout.png)
+
 The numbers correspond to the columns of the plate. To convert to dilution factor, we subtract 1 and raise it to the power of 10, e.g. Position 1 is undiluted ($10^{0}$), Position 2 is a 10-fold dilution ($10^{1}$) etc. Label the plate with your name, the host name, the date and the sample number from which the plaque was picked.
+
 - [ ] __Step 7__: Using the same protocol as yesterday, visit a pouring station and make a lawn of bacteria on your plates and allow to set for 15 mins before taking them back to your bench.
 - [ ] __Step 8__: Using the same method as yesterday, spot __5 µL__ from each well in a row of your 96-well plate onto their assigned position on the plate. Onto the blank (__B__), pipette __5 µL__ of SM buffer. We want to make sure any 'plaque' is a result of viral infection, not an interaction with the buffer. Allow the spots to dry before inverting your plate and bringing it to the front for us to put in an incubator overnight.
 
