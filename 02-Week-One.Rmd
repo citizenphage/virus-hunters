@@ -1,73 +1,121 @@
 # Phage Enrichment
 
-In total, we will have 15 students isolating phages for the CPL. Each student will be assigned a pathogen and will use that to isolate phages from samples crowdsourced by their peers. The first week is spent enriching for phages from their samples. In total there will be 47 samples (plus one negative ctrl).
-
 ## Monday 17th May
-* Kick off meeting + students given sample packs, with samples to be taken next morning.
 
-BT will give a presentation on the work and the steps involved in phage isolation.
+There will be a 1-hour presentation introducing you to the project. This will be held __at 9:35 am in LSI Seminar Room A__. You will also be provided with a sampling kit containing three jars. The aim is for each student to collect three samples of freshwater. __One__ of these should be from one of the ponds on campus. Try not to all sample the same pond! The other two can be from other sources near your homes or around Exeter. They can include ponds, rivers, bird baths, puddles etc. Each sample will need to be at least 25 mL (each jar holds 40 mL).
 
-### Materials required
-* 36 sample jars
-* 12 lab pens
+When picking your sample site, it is worth noting that following heavy rainfall, many wastewater treatment plants have storm overflows that feed into rivers and streams. This makes these regions excellent hunting grounds for new phages. [There is a resource for finding such areas (in the interests of water safety) here](https://arcg.is/1He0XL). If we have rainfall just before sampling, it might be worth considering sites found on this map in the local region.
 
+![](images/sampling.png)
+
+At each sample site, 
+
+- [ ] __Step 1__: Find an interesting sampling site
+- [ ] __Step 2__: Record the location using the [What3Words](https://what3words.com/) app on your phone.This will be used as the name of the sample. 
+- [ ] __Step 3__: Write the three words on the lid of the jar using the waterproof lab pen in your kit, as well as the sample date. 
+- [ ] __Step 4__: Fill the jar with water and make sure the lid is tightly fastened. 
+- [ ] __Step 5__: Take a photo of the sample site to remind you of what it was you sampled.
+
+When you get home, keep the samples in your fridge overnight. 
+
+Record the details of your sample on the Sample tab on the [Google sheet here](https://docs.google.com/spreadsheets/d/1V6doztAX4AQ5657eH5r0GbJj_GnfMxTe4eKh7metXl0/edit?usp=sharing). Make sure you provide the What3Words address, the date and a brief description of the sample, as well as your name. You do not need to supply a sample number - these will be assigned once all samples are collected.
+
+If you want to register your samples as part of the Citizen Phage Library project, you can also register them on the CPL portal. This is currently hosted at the university, so you'll need to be on the VPN or on University campus.
+
+
+__This is currently not working due to a bug, so please record your samples on the Excel spreadsheet and I'll try and fix it this week so you can record your samples retrospectively.__
+
+
+1. Make sure you are either on campus or on the [University VPN](https://www.exeter.ac.uk/it/howdoi/vpn/)
+2. Go to [this site](http://144.173.115.131/)
+3. Click on 'Sign In'
+4. Click on 'Sign Up'
+5. Enter a username, email address and choose a password
+6. A confirmation email will be sent to your email address - click on the link it contains to complete registration and it should take you to your account page.
+7. You need to register your sampling kit before you register samples, so select the 'Order or register a sampling kit' button.
+8. Find your Sample Kit ID on the side of your sampling kit and type it in (e.g. K-00001)
+9. Click submit - this registers that kit ID with your account.
+10. For each sample, click on 'Register your samples'.
+11. Enter the What3Words address, the date taken and give a description of the sample. Choose the sample picture for uploading. Your registered Sample Kit should be selected by default.
+12. Press Submit.
 
 ## Tuesday 18th May
-* Students return to lab with samples
-* Samples are transferred to 50 mL falcon tube + centrifuged for 30 mins @ 10000 x g
-* Samples are filtered through 0.2 µm syringe filters into fresh 50 mL Falcon tube, then aliquoted into 15 1.5 mL lo-bind microcentrifuge tubes
-* Samples are recorded on class shared spreadsheet
-* Samples stored O/N at 4 °C.
 
-### Materials required
-* 6 x 50 mL Falcon tube x 15 students (90 total)
-* 3 x 25 mL syringe with luer lock (45 total)
-* 3 x 0.2 µm syrige filter (45 total)
-* 3 x 15 1.5 mL microcentrifuge tubes (675 total) 
-* microcentrifuge rack
-* Centrifuge capable of 10,000 x g for 50 mL Falcon tubes
+The aim of this session is to prepare your samples for phage hunting. This involves removing solid debris and bacteria by centrifugation and filtering, leaving only the phages (which are smaller than the filter size) in the filtrate. Each sample will be aliquoted into 15 aliquots (one per student).
+
+At the end, you should have three lots of 15 1.5 mL microcentrifuge tubes. These will then be distributed between the students so each student can test each sample on their designated bacterial host.
+
+![](images/sample-preparation.png)
+
+- [ ] __Step 1__: Bring your samples back to the lab
+- [ ] __Step 2__: Transfer each sample to a 50 mL Falcon tube. Fill it up to the 40 mL mark. Samples need to contain the same amount of liquid to ensure balancing in the centrifuge. Label each tube with the sample number and your name. Make sure the lid is securely fastened. Draw an arrow on the lid facing outwards - this will point to where your pellet will be once it has been centrifuged, so you can avoid disturbing it.
+- [ ] __Step 3__: Place your sample in the rack at the front of the lab. These will then be centrifuged for 30 mins at 10,000 x g to pellet the solid material and bacterial cells. The phages will remain in the supernatant because they are much smaller.
+- [ ] __Step 4__: Retrieve your samples from the rack at the front and carefully carry them to your work area, being careful not to disturb the pellet.
+- [ ] __Step 5__: Using a luer-lock syringe, draw up supernatant from one of the samples. Open the syringe filter and lock the syringe into it. Push the syringe down, collecting the filtrate in a fresh tube. You need about 20 mL of filtrate. If the syringe becomes too difficult to push down, it is likely the filter is clogged. To put a new filter on, draw up the syringe slightly so it isn't dripping, then unlock the syringe filter and fit a fresh one.
+- [ ] __Step 6__: Using a 1000 µL pipettor, transfer 15 aliquots of 1000 µL of sample into 1.5 mL lo-bind microcentrifuge tube. Label the top of the tube with the sample number and your initials.
+
+Repeat this process for the remaining samples.
+
+When your samples have been aliquoted, take them to the front of the room in the rack. We will then organise them into sample collections for each student.
+
+Place your Falcon tubes in the bucket provided - this allows us to clean them and autoclave them for re-use to save on plastic waste.
+
+Return your sample jars and sampling kit boxes to the front so they can be reused.
 
 ## Wednedsay 19th May
-* Students assigned a pathogen
-* Students provided a set of samples
-* Students aliquot 900 µL of each sample into each well of a 96-well deep well plate
-* Students aliquot 500 µL of 3x LB + 30 mM $MgCl_{2}$ + 30 mM $CaCl_{2}$ into each well
-* Students aliquot 100 µL of O/N pathogen culture into each well.
-* Cover and incubate overnight at 30 °C on an orbital shaker.
-* Students set up fresh O/N culture of pathogen
 
-### Materials required
-* 10 mL of O/N pathogen culture 
-* 50 mL of 3x LB + 30 mM $MgCl_{2}$ + 30 mM $CaCl_{2}$ (1L total)
-* Deep well plate (15 total)
-* PCR film (15 total)
-* 2 sterilins with 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (30 total)
+The aim of this session is to set up an overnight enrichment of each sample for a pathogen that has been assigned to you. An aliquot of sample is placed into a well in a deep-well plate and mixed with an overnight culture of pathogen and a final concentration of 1 $\times$ LB medium + 10 mM $MgCl_{2}$ + 30 mM $CaCl_{2}$. Any phages in the sample capable of infecting your pathogen will infect it, undergo the lytic cycle and replicate. Over several cycles of lytic infection, the number of phages for your pathogen will be vastly enriched. In this way, we can isolate rare phages from the environment.
+
+To see which pathogen you have been assigned, visit the 'Assigned Pathogens' tab on the [Google Sheet here](https://docs.google.com/spreadsheets/d/1V6doztAX4AQ5657eH5r0GbJj_GnfMxTe4eKh7metXl0/edit?usp=sharing)
+
+![](images/enrichment-1.png)
+
+- [ ] __Step 1a__: Collect your sample pack from the front. This comprises a 1.5 mL microcentrifuge tube from each sample collected by the students, plus a negative control (autoclaved MilliQ water).
+- [ ] __Step 1b__: Label your 96 well plate with your name and the name of the pathogen using labelling tape. This is so we can return your plate to you from the overnight incubation step.
+- [ ] __Step 2a__: Work out how many wells you need for your samples, plus the negative control. For each sample you have, aliquot __500 µL__ of 3 $\times$ LB + 30 mM $MgCl_{2}$ + 30 mM $CaCl_{2}$ into a well. Work in rows, e.g. place one sample in A1, the next in A2, then A3 etc. You should end up with about half your plate containing liquid. You don't need to change your pipette tip between wells.
+- [ ] __Step 2b__: Change your pipette tip and aliquot __100 µL__ of pathogen culture into each well that contains liquid. Again, you can use one pipette tip for the whole plate here because the content of each well is identical.
+- [ ] __Step 2c__: Using a fresh pipette tip __for each well__, Transfer __900 µL__ of one sample into a well that contains medium plus pathogen. Use the pipette to **slowly** mix the well. Record the well with the sample number in your lab books. **This is critical to track back isolated phages to the samples**. 
+- [ ] __Step 2d__: Cover the plate with a seal. 
+- [ ] __Step 3__: Set up your overnight culture of your pathogen for use tomorrow. To do this, aliquot 10 µL of your culture into a sterilin containing 10 mL of LB medium + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$. Label the sterilin with your name and the name of your pathogen. You can use the short name of the pathogen for this.
+- [ ] __Step 4__: Carefully carry the 96-well plate and the sterilin to the front so we can place it in an incubator overnight at 30 °C. with shaking.
+
+### Sewage sample from Countess Wear
+Sewage is a rich source of phages that infect pathogenic bacteria. To increase the likelihood of finding phages for our pathogens, we have also prepared a sample of filtered, raw sewage using the same method you used for your samples. Raw sewage can contain harmful pathogens such as Hepatitis, so to minimise risk, we have a pre-prepared deep well plate at the front of the class. Each well in that plate contains 900 µL of centrifuged, filtered sewage and 500 µL of 3 $\times$ LB + 30 mM $MgCl_{2}$ + 30 mM $CaCl_{2}$.
+
+All you need to do is aliquot __100 µL__ of your original pathogen culture into the well designated in the 'Assigned Sewage Plate Well' column in the spreadsheet above. __PLEASE TAKE CARE TO ALIQUOT YOUR PATHOGEN INTO THE CORRECT WELL__. If we end up with two pathogens in the same well, we won't know which one has phages enriched for it.
+
 
 ## Thursday 20th May
-* Students transfer 200 µL from each well into a 0.2 µm filter plate atop a regular, sterile 96 well plate.
-* Plate is spun at 900 x g for 4 mins to transfer filtrate to bottom plate
-* Into a fresh 200 µL 96-well plate, students add 190 µL of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ per well
-* 5 µL of phage lysate from bottom plate is added to each well
-* 10 µL of O/N host culture added to each well and plate sealed
-* Placed in an incubator O/N at 37 °C.
-* Students set up fresh O/N culture of pathogen
 
-### Materials required
-* 0.45 µm filter plate (Merck MSHAS4510) (15 total)
-* 2 x sterile 200 µL 96-well plate (30 total)
-* PCR film (15 total)
-* 2 sterilins with 10 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (30 total)
+Following overnight growth, the cultures in the deep-well plate should now be enriched in phages infecting your pathogen, provided they were in the original sample. Each well will also contain substances from the original sample that made it through the 0.2 µm filter. In this next step, we will start to culture the phages against their pathogen in pure culture. We filter material from the deep-well plate through a 0.45 µm filter into a fresh plate, then add that filtrate to a fresh culture (the reason we use a 0.45 µm filter instead of a 0.2 µm filter is simply due to cost - they are much cheaper!). This is a two-stage process to ensure the phage can be propagated in pure culture.
+
+![](images/first-filtration.png)
+
+- [ ] __Step 1a__: Collect your deep-well plate from the front, as well as your overnight culture and return it to your work area.
+- [ ] __Step 1b__: Open up a 0.45 µm filter plate and place it on top of a sterile 96-well plate. Write your name and pathogen directly on the bottom plate. Use label tape to tape the two plates together at the edge, just to stop them slipping apart.
+- [ ] __Step 1c__: Transfer __200 µL__ from each well **into the same well position** on the filter plate. It is important that you don't pipette into a wrong well, so we can track which phages came from which samples, so work slowly and carefully. If you do make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
+- [ ] __Step 1d__: Cover your filter plate with a seal and return it to the front.
+- [ ] __Step 2__: Our technicians will take your plate up to the 4th floor for centrifugation at 900 $\times g$ for 4 minutes. This will transfer the phage lysate into the bottom plate, but keep the pathogens in the top plate. The bottom plate is then used to infect fresh cultures.
+- [ ] __Step 3a__: Make a stock culture by adding __500 µL__ of overnight host culture into __9.5 mL__ of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$. Mix briefly by vortexing for 1-2 seconds.
+- [ ] __Step 3b__: Label your a fresh, sterile 200 µL 96-well plate with your name and pathogen. Into each well add __200 µL__ of the stock culture from the step above per well in as many wells as you have samples (including the negative control). Like before work in rows so that it matches your deep-well plate. Change your pipette tip every row and briefly revortex your stock culture to bring it back into resuspension.
+- [ ] __Step 4a__: Using a different pipette tip for each well, transfer __5 µL__ of phage lysate from each well of your bottom plate from Step 2 **into the same well position** on the plate containing LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ host culture. Mix by pipetting. Again, if you make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
+- [ ] __Step 4b__: Seal your plate with a plate seal.
+
+- [ ] __Step 5__: Return your 96-well plate and your remaining stock culture to the front. We'll use the remaining stock culture to inoculate the sewage plate. The 96-well plate will be incubated overnight at 37 °C.
+
 
 ## Friday 21st May
-* Students transfer 200 µL from each well into a 0.2 µm filter plate atop a regular, sterile 96 well plate.
-* Plate is spun at 900 x g for 4 mins to transfer filtrate to bottom plate
-* Bottom plate is covered with PCR film and stored until Monday at 4 °C.
-* Students streak pathogen onto agar plate for growth over weekend.
+In this session, we will complete the second stage of the propagation in pure culture. It is very similar to what was done the previous day, but using our 200 µL culture plate instead of a deep-well plate. We will also prepare a streak plate for continuing the work next week.
 
-### Materials required
-* 0.45 µm filter plate (15 total)
-* 1 x sterile 200 µL 96-well plate (15 total)
-* PCR film (15 total)
-* 2 x LB agar plates for bacterial growth
-* Inoculating loops
+![](images/second-filtration.png)
+
+- [ ] __Step 1a__: Collect your plate from the front, as well as your overnight culture and return it to your work area.
+- [ ] __Step 1b__: Open up a 0.45 µm filter plate and place it on top of a sterile 96-well plate. Write your name and pathogen directly on the bottom plate. Use label tape to tape the two plates together at the edge, just to stop them slipping apart.
+- [ ] __Step 1c__: Transfer __200 µL__ from each well **into the same well position** on the filter plate. It is important that you don't pipette into a wrong well, so we can track which phages came from which samples, so work slowly and carefully. If you do make a mistake, make a note of it in your lab books so we can correct the error in the final stages.
+- [ ] __Step 1d__: Cover your filter plate with a seal and return it to the front.
+- [ ] __Step 2__: Our technicians will take your plate up to the 4th floor for centrifugation at 900 $\times g$ for 4 minutes. 
+- [ ] __Step 3__: Retrieve your plate from the front and separate it from the filter plate. Cover the bottom plate with a seal. This will be used next week in the plaque assays.
+- [ ] __Step 4__: Make a fresh streak plate of your culture. Flame an inoculation loop until it glows red and then allow it to cool. Pick 3-4 colonies from your overnight streak plate by dabbing the loop on them. Streak them down one side of a petri dish containing LB + agar. Reflame your loop, allow to cool and drag one side perpendicular to the original streak. Turn your plate 90° and repeat.
+- [ ] __Step 5__: Return your streak petri dish and sealed phage lysate plates to the front. We will store the phage lysate at 4 °C over the weekend and incubate the petri dish culture.
+
 

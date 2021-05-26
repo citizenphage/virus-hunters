@@ -1,5 +1,8 @@
 # Genome Annotation
 
+__TO BE UPDATED__
+
+
 The students will use the Centre for Phage Technology Galaxy Phage tool to annotate their genomes
 
 ## Monday 7th June

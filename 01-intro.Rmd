@@ -1,4 +1,31 @@
-# Introduction {-}
+# House Keeping Rules {-}
 
-## Lab times {-}
-Lab sessions will run from 0930-1230 each day in GP108. The kick-off meeting (Monday 17th May) where students will be handed a sampling pack will take place in a lecture theatre to be determined.
+## Lab times and Kick-Off Meeting {-}
+Lab sessions will run from __0930-1230 each day in GP108__. The kick-off meeting (Monday 17th May) where you will be handed a sampling pack will take place in __at 9:35 am in LSI Seminar Room A__. Most lab sessions are scheduled to take about 1-2 hours. Some will take the full three hour period.
+
+__Due to the tight scheduling, there is not much opportunity to catch-up__. Each day of the workshop builds upon the previous day. The schedule is designed so that we can get DNA to the sequencing centre in time for it to be processed with sufficient time after for analysis. Social distancing also prevents us from buddying-up. So, if you miss a day, we will do what we can to catch you up, but there are no guarantees. If you are unable to see your phage isolation all the way through due to unforseen circumstances, you will still be able to participate in the genome annotation and informatics sessions.
+
+## Safe working practices {-}
+Each of you will be assigned a pathogen to use for phage isolation. Please make sure you read the appropriate Risk Assessment BEFORE you start handling your cultures. [They can be found here](#risk-assessment).
+
+Please also ensure that you have read the appropriate sections of the Risk Assessment document entitled `General considerations for working with Containment Level 2 pathogens` before performing the work.
+
+## Working in a COVID-secure manner {-}
+
+* COVID-19 safety policies remain in place, including __face-coverings which must be worn__ inside University buildings.
+* Social distancing rules remain in place in the lab. Please keep to your work area and be mindful of others when moving around.
+* __If you feel unwell, or develop any symptoms associated with COVID19, or if you have a positive test, STAY AWAY__
+* It is recommended that you get regularly tested during the workshop. You can book a free test on-campus [here](https://www.exeter.ac.uk/coronavirus/times/).
+* Please enter GP108 by coming up the rear staircase to avoid heavy footfall in the GP lobby. We will make sure the outside door is open so you can get into the lab. You can use the lockers outside for your bags.
+* There are clean lab coats in the lab, which you will wear for your work that day, then put them in the laundry bin when you are finished.
+* There are chemgene spray bottles and blue rolls for you to clean the bench before you start work and after you have completed work before you leave.
+
+## Aseptic technique {-}
+
+We will demonstrate the following in the sessions:
+
+* Mixing by pipetting
+* Working under a flame.
+* Streaking a host onto agar
+
+Demonstrations will occur at the start of each session at __09:40__.
