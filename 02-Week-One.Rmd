@@ -53,6 +53,7 @@ At the end, you should have three lots of 15 1.5 mL microcentrifuge tubes. These
 - [ ] __Step 4__: Retrieve your samples from the rack at the front and carefully carry them to your work area, being careful not to disturb the pellet.
 - [ ] __Step 5__: Using a luer-lock syringe, draw up supernatant from one of the samples. Open the syringe filter and lock the syringe into it. Push the syringe down, collecting the filtrate in a fresh tube. You need about 20 mL of filtrate. If the syringe becomes too difficult to push down, it is likely the filter is clogged. To put a new filter on, draw up the syringe slightly so it isn't dripping, then unlock the syringe filter and fit a fresh one.
 - [ ] __Step 6__: Using a 1000 µL pipettor, transfer 15 aliquots of 1000 µL of sample into 1.5 mL lo-bind microcentrifuge tube. Label the top of the tube with the sample number and your initials.
+- [ ] __Step 7__: Store any remaining filtered sample in a labeled 20 mL amber glass vial for testing against future host strains.
 
 Repeat this process for the remaining samples.
 

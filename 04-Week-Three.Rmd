@@ -1,41 +1,54 @@
 # Phage Purification and DNA extraction
 
-__TO BE UPDATED__
-
-
-In the third week, the students will perform DNA extractions on phages
+Last week, we tested that your enrichments contained phages and then purified those by three rounds of dilution to extinction spot assay. Finally, we bulked up our phage in fresh host for DNA sequencing and imaging.
 
 ## Tuesday 1st June
-Students will test their lysate for estimating PFU and begin phage DNA precipitation
 
-* Students will prepare a dilution series of their phages as before and spot them in triplicate across 3 plates
-* Students will transfer 30 mL of lysate to a fresh Falcon tube
-* Students will add 15 µL of nuclease solution and incubate at 37 °C for 30 mins
-* Students will then add 15 mL of precipitant solution to each tube and mix gently by inversion
-* Samples will be incubated at 4 °C O/N
+Today we will be preparing our samples for imaging, storage in the CPL archive and starting the DNA extraction. The DNA extraction begins with a PEG precipitation step. Briefly, you dissolve PEG8000 and NaCl into your filtered phage lysate. The high concentration of polyethylene glycol (PEG) and NaCl causes the viral particles to 'clump' together and precipitate out of solution. When this process is complete, we can centrifuge down a concentrated viral pellet for DNA extraction.
 
-### Materials required
-* 10 mL pathogen culture
-* 3 glass test tubes with lids containing 3 mL molten agar (45 total)
-* 3 petri dishes with bottom agar (45 total)
-* water bath (or heat blocks if the tubes will fit in).
-* 1 sterile 96 well plate (15 total)
-* 3 x Falcon tube (45 total)
-* 50 µL of nuclease solution (750 µL total)
-* 50 mL of precipitant solution (750 mL total)
+After growing overnight with your phage (and hopefully lots of lysis!) we put your tubes in the fridge to stop the growth. To speed things up, the following will be complete before you arrive:
+
+- [ ] __Step 1__: Combine the two 20 mL cultures for each phage together into a single Falcon tube.
+- [ ] __Step 2__: Centrifuge at 10,000 $\times g$ for 30 minutes at 4 °C.
+
+Upon arrival, you can pick up your centrifuged culture from the front. For each phage, repeat the following, all under a blue flame.:
+
+- [ ] __Step 3__: Label a fresh Falcon tube with the host name, the sample number the phage came from and your name.
+- [ ] __Step 4__: Using a syringe and a 0.22 µm filter, filter sterilise the supernatant of your centrifuged culture into the Falcon tube. You want at least 35 mL. If your filter clogs, swap it out for a new one and continue filtering.
+- [ ] __Step 5__: Label a microcentrifuge tube with your sample number the phage came from and host short name. Transfer __500 µL__ of filtrate from the Falcon tube into the microcentrifuge tube. This will go to the bioimaging centre for Transmission Electron Microscopy.
+- [ ] __Step 6__: Aliquot 1.5 mL into labeled, acid-washed amber glass vials. These will go to the Citizen Phage Library archive for long-term storage.
+- [ ] __Step 7a__: Reduce the volume in the Falcon tube to 30 mL
+- [ ] __Step 7b__: Add 15 µL of Nuclease solution (0.5 µL per mL of lysate) to the lysate. The nuclease solution is a mixture of RNAse and DNAse. The DNA in the viral particles is protected, but any free cellular DNA or RNA will get degraded. This means that when the DNA gets sequenced, there should be minimal host carryover.
+- [ ] __Step 8__: Bring your tubes to the front and we will incubate them at 37 °C for 30 mins.
+- [ ] __Step 9__: Label a Falcon tube containing PEG8000 and NaCl with your name, the host name and the sample number the phage came from. Transfer your 30 mL of treated lysate into the Falcon tube containing PEG8000 and NaCl. Mix by inversion until everything is dissolved. Mark an arrow on the lid and the matching side of the tube to show where the pellet will be.
+- [ ] __Step 10__: Bring your tube to the front and we'll incubate it at 4 °C overnight to maximise precipitation of the viral particles.
+
 
 ## Wednesday 2nd June
-Students will extract DNA using the Promega Wizard kit using [this protocol](https://cpt.tamu.edu/wordpress/wp-content/uploads/2011/12/Phage-DNA-extraction-modified-Wizard-method-07-12-2011.pdf)
 
-Depending on how many phages we isolate, we are anticipating sending two per student for sequencing, with the remaining extractions kept back for future analyses.
-### Materials required
-* 3 x 500 µL resuspension buffer (5 mM $MgSO_{4}$) (25 mL total)
-* 2 x Promega Wizard Kits.
+Once left overnight, your phages will have precipitated. We will centrifuge your overnight incubations at 10,000 $\times g$ for 10 minutes at 4 °C. When you come in, carefully transfer your inoculations from the front to your work area. You will now perform a DNA extraction from the pellet.
+
+- [ ] __Step 1__: Carefully pour off the supernatant and retain the pellet. The pellet may be transparent or opaque, and may be spread up the wall of the tube.
+- [ ] __Step 2__: Resuspend the pellet in __500 µl__ of SM buffer (5 mM MgSO4) by pipetting gently up and down; be sure to rinse down the sides of the tube to obtain all of the pellet. Transfer the __500 µl__ to a microcentrifuge tube.
+- [ ] __Step 3__: Repeat Step 2 to maximise the amount of recovered DNA and add the second __500 µL__ to the same microcentrifuge tube.
+- [ ] __Step 4__: Centrifuge for 5-10 sec to pellet any insoluble particles. Transfer the supernatant to a new labeled 2 ml microcentrifuge tube. Work together so you have even numbers of samples in the centrifuges and make sure they are evenly balanced.
+- [ ] __Step 5__: Thoroughly resuspend the purification resin contained in the Promega Wizard kit (swirl gently) and add 1 ml of resin to the phage suspension. Mix by inverting the tube 5-6 times. The resin contains guanidinium thiocyanate, which denatures proteins so handle with care. This reagent will lyse open your capsids and also denature the DNAse and RNAse you added previously.
+- [ ] __Step 6__: Label a 1.5 ml microcentrifuge tube for each phage with the sample number the phage came from and host short name and place into a tube rack with the lid open. Place a Wizard minicolumn into each tube.
+- [ ] __Step 7__: Remove the plunger from a 3 ml syringe, attach the syringe barrel to the minicolumns in the tube rack, and leave them standing in the tube rack. Place the plunger on a clean paper towel on the bench.
+- [ ] __Step 8__: Pipet the resin/lysate mix into the syringe. Keep the original sample tube for Step 12. Cut off the cap and keep it. Holding the syringe over a waste beaker, insert the syringe barrel and push the resin into the minicolumn. Keep pressing until all the liquid has been forced through the resin. A slow flow rate usually means a good DNA yield. The DNA is now on the column.
+- [ ] __Step 9__: Detach the minicolumn from the syringe and place it back into its microcentrifuge tube. Remove the plunger from the syringe, then reattach the syringe barrel to the minicolumn.
+- [ ] __Step 10__: Wash the column by adding 2 ml of 80% isopropanol to the syringe. Holding the syringe over a waste beaker, insert the syringe barrel and push the isopropanol through the minicolumn. Keep pressing until all the liquid has been forced through the column.
+- [ ] __Step 11__: Remove the syringe from the minicolumn and discard the syringe.
+- [ ] __Step 12__: Place column in original 2 mL tube from Step 8. Place the cut-off cap from Step 8 onto the top of the column. Fixate the cut-off lids with a little bit of tape.
+- [ ] __Step 13__: Centrifuge for 2 min at 10,000xg to remove excess isopropanol. Work together so you have even numbers of samples in the centrifuges and make sure they are evenly balanced.
+- [ ] __Step 14__: Place the column in a new 1.5 mL microcentrifuge tube labeled with the sample number the phage came from and host short name.
+- [ ] __Step 15__: Collect a tube of EB from the heat block at the front set to 80 °C. Quickly transfer 102 µL of heated EB to the centre of the column. Incubate for 2 minutes.
+- [ ] __Step 16__: Centrifuge at 10,000 $\times g$ for 1 minute. Work together so you have even numbers of samples in the centrifuges and make sure they are evenly balanced. This will elute the EB off the column and into the tube. If there is much less than 100 µL in the tube, add another 100 µL of heated EB to the resin and re-centrifuge.
+- [ ] __Step 17__: Discard the minicolumn and bring your tubes to the front. We will then quantify the DNA on the Qubit and give them to sequencing for processing.
 
 ## Thursday 3rd June
-Students will perform killing efficiency assays of their phages.
+Opportunity to do killing assays?
 
-**Group photo!**
 
 ## Friday 4th June
 

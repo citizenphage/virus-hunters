@@ -114,22 +114,28 @@ The next step is to core an individual plaque from the largest dilution number (
 ## Thursday 27th May
 Final Round! Today we repeat what we did yesterday for the final round of purification. At the end of this, plaques are virtually certain to be axenic.
 
+__Volunteers Required if you are using _E. coli_ as a host__:  As a positive control for our sequencing, we are going to grow a culture of Escherichia phage T4. Because the genome of this is well known, we will be able to evaluate how well we are recovering the genome and the error rate of the reads pre- and post error correction. We can then assume that the same degree of error (should be very small) is found in our novel phage genomes. If you can fit it onto one of your dilution plates, create an extra spot called 'T4' and spot __5 µL__ of the stock culture we have onto that plate. Because it's already pure, we don't need to go through multiple rounds of purification.
+
+
 ## Friday 28th May
-We should now have plaques that are single axenic viral cultures. Now we need to bulk them up for sequencing and imaging and for making viral stocks for future use.
+We should now have plaques that are single axenic viral cultures. Now we need to bulk them up for sequencing and imaging and for making viral stocks for future use. We will do this by picking a plaque and adding it to an exponential culture of host. In total, we need about 40 mL of host per phage (30 mL for DNA extraction, 500 µL for imaging and the remainder for putting into long term phage storage as part of the Citizen Phage Library). You can't grow 40 mL of culture in a single Falcon tube - it doesn't have enough headspace for gas exchange and there's too much liquid for efficient mixing. So, we're going to grow it up as two 20 mL cultures and then combine them.
 
+Repeat the following for each phage:
 
+![](images/bulking-up.png)
 
-* Students will take a photo of their plates to record plaque morphology. These will also be used to determine approximate PFU counts.
-* Students will pick plaque from the biggest dilution (fewest phages) and add it to 50 mL of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$, amended with 1 mL of O/N host culture.
-* Cultures will be grown O/N at 30 °C
+- [ ] __Step 1__: Under a blue flame, core a plaque from your highest dilution just like before and place it in a __100 µL__ of SM buffer in a microcentrifuge tube. Label the tube with the host and the sample number.
+- [ ] __Step 2__: Vortex briefly and leave it for five minutes before vortexing again.
+- [ ] __Step 3a__: Add __50 µL__ of the SM buffer with your core to a Falcon tube containing __20 mL__ of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$.
+- [ ] __Step 3b__: Add a second aliquot of __50 µL__ of the SM buffer with your core to another Falcon tube containing __20 mL__ of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$.
+- [ ] __Step 3c__: Label each Falcon tube with your name, the host, the date and the sample number the phage came from.
+- [ ] __Step 4__: Into each Falcon tube, add __500 µL__ of overnight host culture. Vortex briefly and return the tubes to the front so we can put them in the incubator. Each student should have __six__ tubes (two per phage).
 
-The next day (Saturday), BT and team will go in and centrifuge the samples down and prepare for each phage 1 x 50 mL tubes of lysate, filtered through a 0.2 µm syringe filter. We will prepare 3 x 2 mL phage stocks in acid washed, autoclaved amber glass vials.
+- [ ] __Step 5__: Return your plaques to the front - we'll keep them just in case we need to take new plaques.
 
-**200 µL of each phage filtrate will be provided to the imaging centre.**
+We'll put your tubes into an incubator at 37 °C overnight and come in tomorrow to transfer them to the fridge for Tuesday. On Tuesday morning, we will centrifuge them at 10,000 $\times g$ for 30 minutes at 4 °C to pellet the cell debris and leave the viruses in the supernatant. 
 
-### Materials required
-* 3 x 50 mL LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$ (2L total)
-* 3 x 50 mL falcon tubes (45 total)
-* 3 x 0.2 µm syringe filter (45 total)
-* 3 x 25 mL syringe with luer lock (45 total).
-* 3 x 2 mL amber glass vials
+We'll also create one 20 mL culture of each host with no phages so we can monitor differences between infected and uninfected cultures as a check of whether an active infection is occuring (lower $OD_{600}$, more debris at the bottom of the Falcon tube, colour change in cultures).
+
+Finally, we'll pick a good T4 plaque and inoculate two 20 mL cultures of _E. coli_ for our positive control.
+
