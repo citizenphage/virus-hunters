@@ -130,8 +130,8 @@ Repeat the following for each phage:
 - [ ] __Step 3b__: Add a second aliquot of __50 µL__ of the SM buffer with your core to another Falcon tube containing __20 mL__ of LB + 10 mM $MgCl_{2}$ + 10 mM $CaCl_{2}$.
 - [ ] __Step 3c__: Label each Falcon tube with your name, the host, the date and the sample number the phage came from.
 - [ ] __Step 4__: Into each Falcon tube, add __500 µL__ of overnight host culture. Vortex briefly and return the tubes to the front so we can put them in the incubator. Each student should have __six__ tubes (two per phage).
-
 - [ ] __Step 5__: Return your plaques to the front - we'll keep them just in case we need to take new plaques.
+
 
 We'll put your tubes into an incubator at 37 °C overnight and come in tomorrow to transfer them to the fridge for Tuesday. On Tuesday morning, we will centrifuge them at 10,000 $\times g$ for 30 minutes at 4 °C to pellet the cell debris and leave the viruses in the supernatant. 
 

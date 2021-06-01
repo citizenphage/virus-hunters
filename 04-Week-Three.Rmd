@@ -15,9 +15,9 @@ Upon arrival, you can pick up your centrifuged culture from the front. For each 
 
 - [ ] __Step 3__: Label a fresh Falcon tube with the host name, the sample number the phage came from and your name.
 - [ ] __Step 4__: Using a syringe and a 0.22 µm filter, filter sterilise the supernatant of your centrifuged culture into the Falcon tube. You want at least 35 mL. If your filter clogs, swap it out for a new one and continue filtering.
-- [ ] __Step 5__: Label a microcentrifuge tube with your sample number the phage came from and host short name. Transfer __500 µL__ of filtrate from the Falcon tube into the microcentrifuge tube. This will go to the bioimaging centre for Transmission Electron Microscopy.
+- [ ] __Step 5__: Label a microcentrifuge tube with your sample number the phage came from and host short name. Transfer __500 µL__ of filtrate from the Falcon tube into the microcentrifuge tube. **This will go to the bioimaging centre for Transmission Electron Microscopy**.
 - [ ] __Step 6__: Aliquot 1.5 mL into labeled, acid-washed amber glass vials. These will go to the Citizen Phage Library archive for long-term storage.
-- [ ] __Step 7a__: Reduce the volume in the Falcon tube to 30 mL
+- [ ] __Step 7a__: Reduce the volume in the Falcon tube to 30 mL using a pipette.
 - [ ] __Step 7b__: Add 15 µL of Nuclease solution (0.5 µL per mL of lysate) to the lysate. The nuclease solution is a mixture of RNAse and DNAse. The DNA in the viral particles is protected, but any free cellular DNA or RNA will get degraded. This means that when the DNA gets sequenced, there should be minimal host carryover.
 - [ ] __Step 8__: Bring your tubes to the front and we will incubate them at 37 °C for 30 mins.
 - [ ] __Step 9__: Label a Falcon tube containing PEG8000 and NaCl with your name, the host name and the sample number the phage came from. Transfer your 30 mL of treated lysate into the Falcon tube containing PEG8000 and NaCl. Mix by inversion until everything is dissolved. Mark an arrow on the lid and the matching side of the tube to show where the pellet will be.
@@ -47,7 +47,7 @@ Once left overnight, your phages will have precipitated. We will centrifuge your
 - [ ] __Step 17__: Discard the minicolumn and bring your tubes to the front. We will then quantify the DNA on the Qubit and give them to sequencing for processing.
 
 ## Thursday 3rd June
-Opportunity to do killing assays?
+We're keeping this as a spare day in case something goes wrong.
 
 
 ## Friday 4th June
