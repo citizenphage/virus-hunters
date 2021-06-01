@@ -18,7 +18,7 @@ Upon arrival, you can pick up your centrifuged culture from the front. For each 
 - [ ] __Step 5__: Label a microcentrifuge tube with your sample number the phage came from and host short name. Transfer __500 µL__ of filtrate from the Falcon tube into the microcentrifuge tube. **This will go to the bioimaging centre for Transmission Electron Microscopy**.
 - [ ] __Step 6__: Aliquot 1.5 mL into labeled, acid-washed amber glass vials. These will go to the Citizen Phage Library archive for long-term storage.
 - [ ] __Step 7a__: Reduce the volume in the Falcon tube to 30 mL using a pipette.
-- [ ] __Step 7b__: Add 15 µL of Nuclease solution (0.5 µL per mL of lysate) to the lysate. The nuclease solution is a mixture of RNAse and DNAse. The DNA in the viral particles is protected, but any free cellular DNA or RNA will get degraded. This means that when the DNA gets sequenced, there should be minimal host carryover.
+- [ ] __Step 7b__: Add 30 µL of Nuclease solution (0.5 µL per mL of lysate) to the lysate. The nuclease solution is a mixture of RNAse and DNAse. The DNA in the viral particles is protected, but any free cellular DNA or RNA will get degraded. This means that when the DNA gets sequenced, there should be minimal host carryover.
 - [ ] __Step 8__: Bring your tubes to the front and we will incubate them at 37 °C for 30 mins.
 - [ ] __Step 9__: Label a Falcon tube containing PEG8000 and NaCl with your name, the host name and the sample number the phage came from. Transfer your 30 mL of treated lysate into the Falcon tube containing PEG8000 and NaCl. Mix by inversion until everything is dissolved. Mark an arrow on the lid and the matching side of the tube to show where the pellet will be.
 - [ ] __Step 10__: Bring your tube to the front and we'll incubate it at 4 °C overnight to maximise precipitation of the viral particles.
@@ -39,7 +39,7 @@ Once left overnight, your phages will have precipitated. We will centrifuge your
 - [ ] __Step 9__: Detach the minicolumn from the syringe and place it back into its microcentrifuge tube. Remove the plunger from the syringe, then reattach the syringe barrel to the minicolumn.
 - [ ] __Step 10__: Wash the column by adding 2 ml of 80% isopropanol to the syringe. Holding the syringe over a waste beaker, insert the syringe barrel and push the isopropanol through the minicolumn. Keep pressing until all the liquid has been forced through the column.
 - [ ] __Step 11__: Remove the syringe from the minicolumn and discard the syringe.
-- [ ] __Step 12__: Place column in original 2 mL tube from Step 8. Place the cut-off cap from Step 8 onto the top of the column. Fixate the cut-off lids with a little bit of tape.
+- [ ] __Step 12__: Place column in original 2 mL tube from Step 8. 
 - [ ] __Step 13__: Centrifuge for 2 min at 10,000xg to remove excess isopropanol. Work together so you have even numbers of samples in the centrifuges and make sure they are evenly balanced.
 - [ ] __Step 14__: Place the column in a new 1.5 mL microcentrifuge tube labeled with the sample number the phage came from and host short name.
 - [ ] __Step 15__: Collect a tube of EB from the heat block at the front set to 80 °C. Quickly transfer 102 µL of heated EB to the centre of the column. Incubate for 2 minutes.

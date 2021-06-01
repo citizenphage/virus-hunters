@@ -51,6 +51,11 @@ This is a ready-mixed 30% w/v PEG-8000, 3 M NaCl solution for adding to phage ly
 4. Remove and let cool to RT, shaking occasionally
 5. Add autoclaved MilliQ to 600 mL and store at RT.
 
+## Nuclease solution
+
+1. Dissolve 10 mg of DNAse 1 into a tube containing 10 mg/mL RNAse 1
+2. Store on ice.
+
 
 ## Beef resuspension solution
 This is based on the recipe from [@Williamson2003-fu]. For each sample of 25g:
